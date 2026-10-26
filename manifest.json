@@ -1,0 +1,10 @@
+{
+  "name": "Aaj Kya Banega?",
+  "short_name": "Aaj Kya Banega",
+  "description": "Roz ka nashta, lunch aur dinner ka plan",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8ee",
+  "theme_color": "#c2410c",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

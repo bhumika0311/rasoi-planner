@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="hi-Latn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#c2410c">
+  <title>Aaj Kya Banega?</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <h1>Aaj Kya Banega? 🍛</h1>
+    <p id="date-label" class="date"></p>
+    <p id="day-note" class="note" hidden></p>
+    <p id="fallback-note" class="note warn" hidden>Is din ka naya plan abhi nahi bana hai, isliye purana plan dikha rahe hain.</p>
+  </header>
+
+  <nav class="nav" aria-label="Din badlein">
+    <button id="prev" type="button">← Pichla din</button>
+    <button id="today" type="button">Aaj</button>
+    <button id="next" type="button">Agla din →</button>
+  </nav>
+
+  <main id="meals" aria-live="polite"></main>
+
+  <section class="actions">
+    <button id="open-week" type="button" class="secondary">📅 Hafte ka plan</button>
+    <button id="open-shop" type="button" class="secondary">🛒 Saaman ki list</button>
+  </section>
+
+  <dialog id="recipe-dialog" aria-labelledby="recipe-title">
+    <article>
+      <h2 id="recipe-title"></h2>
+      <p id="recipe-desc" class="desc"></p>
+      <h3>Saaman (2 logon ke liye)</h3>
+      <ul id="recipe-ingredients"></ul>
+      <h3>Banane ka tareeka</h3>
+      <ol id="recipe-steps"></ol>
+    </article>
+    <form method="dialog"><button class="close">Band karein</button></form>
+  </dialog>
+
+  <dialog id="week-dialog" aria-labelledby="week-title">
+    <article>
+      <h2 id="week-title">Hafte ka plan</h2>
+      <p class="desc">Surprise wale khane chhupe rehte hain 🎁</p>
+      <div id="week-list"></div>
+    </article>
+    <form method="dialog"><button class="close">Band karein</button></form>
+  </dialog>
+
+  <dialog id="shop-dialog" aria-labelledby="shop-title">
+    <article>
+      <h2 id="shop-title">Saaman ki list</h2>
+      <label class="range">
+        <span>Kitne din ke liye?</span>
+        <select id="shop-range">
+          <option value="1">Sirf aaj</option>
+          <option value="2">Aaj aur kal</option>
+          <option value="3" selected>Agle 3 din</option>
+          <option value="7">Poora hafta</option>
+        </select>
+      </label>
+      <ul id="shop-list" class="shop"></ul>
+      <p id="shop-empty" class="desc" hidden>Is range ke liye koi plan nahi mila.</p>
+    </article>
+    <form method="dialog"><button class="close">Band karein</button></form>
+  </dialog>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>
