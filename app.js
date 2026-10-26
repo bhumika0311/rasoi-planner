@@ -1,4 +1,5 @@
-// Static meal-plan viewer. Plans come from data/plans/YYYY-MM.json, with data/seed.json as a fallback.
+// Static meal-plan viewer. Each day's plan is picked in the browser from data/dishes.json by planner.js.
+import { createPlanner } from "./planner.js";
 
 const SLOT_LABEL = { breakfast: "Nashta", lunch: "Dopahar ka khana", dinner: "Raat ka khana" };
 const WEEKDAYS = ["Ravivar", "Somvar", "Mangalvar", "Budhvar", "Guruvar", "Shukravar", "Shanivar"];
@@ -39,37 +40,20 @@ const label = (iso) => { const d = fromIso(iso); return `${WEEKDAYS[d.getDay()]}
 
 // ---- data loading -------------------------------------------------------
 
-const monthCache = new Map();
-let seed = null;
-
 async function fetchJson(path) {
   const res = await fetch(path);
   if (!res.ok) throw new Error(`${path}: ${res.status}`);
   return res.json();
 }
 
-async function loadMonth(ym) {
-  if (!monthCache.has(ym)) {
-    monthCache.set(ym, fetchJson(`data/plans/${ym}.json`).catch(() => null));
-  }
-  return monthCache.get(ym);
-}
+const plannerReady = Promise.all([fetchJson("data/dishes.json"), fetchJson("data/rhythm.json")])
+  .then(([{ dishes }, rhythm]) => createPlanner(dishes, rhythm))
+  .catch(() => null);
 
-async function loadSeed() {
-  seed ??= await fetchJson("data/seed.json").catch(() => ({ days: [] }));
-  return seed;
-}
-
-// Returns { day, fallback } or null when nothing is available at all
+// Returns { day } or null when the dish library could not be loaded
 async function getDay(iso) {
-  const month = await loadMonth(iso.slice(0, 7));
-  const day = month?.days?.[iso];
-  if (day) return { day, fallback: false };
-
-  const { days } = await loadSeed();
-  if (!days.length) return null;
-  const dayNumber = Math.floor(fromIso(iso).getTime() / 86400000);
-  return { day: days[((dayNumber % days.length) + days.length) % days.length], fallback: true };
+  const planner = await plannerReady;
+  return planner ? { day: planner.getDay(iso) } : null;
 }
 
 // ---- state --------------------------------------------------------------
@@ -88,20 +72,16 @@ async function render() {
   mealsBox.replaceChildren();
 
   const note = $("day-note");
-  const fallbackNote = $("fallback-note");
 
   if (!result) {
     note.hidden = true;
-    fallbackNote.hidden = true;
     mealsBox.append(el("p", { class: "note warn" }, "Plan load nahi ho paya. Internet check karke dobara koshish karein."));
     return;
   }
 
-  const { day, fallback } = result;
-  const text = [day.festival, day.note].filter(Boolean).join(": ");
-  note.hidden = !text;
-  note.textContent = text;
-  fallbackNote.hidden = !fallback;
+  const { day } = result;
+  note.hidden = !day.note;
+  note.textContent = day.note;
 
   for (const meal of day.meals) mealsBox.append(mealCard(meal, current));
 }
