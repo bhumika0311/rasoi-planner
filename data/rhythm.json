@@ -1,7 +1,7 @@
 {
   "comment": "Weekly anchors. weekday: 0=Sunday ... 6=Saturday. Dishes with the given tag are reserved for that day and slot, so the week has a familiar rhythm.",
   "anchors": [
-    { "weekday": 0, "slot": "lunch", "tag": "sunday-special", "note": "Ravivar ka khaas lunch." },
-    { "weekday": 4, "slot": "dinner", "tag": "thursday-khichdi", "note": "Guruvar: aaj raat halki khichdi." }
+    { "weekday": 0, "slot": "lunch", "tag": "sunday-special", "note": "Sunday special lunch." },
+    { "weekday": 4, "slot": "dinner", "tag": "thursday-khichdi", "note": "Thursday: a light khichdi for dinner." }
   ]
 }

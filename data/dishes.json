@@ -3,7 +3,7 @@
   {
    "slot": "breakfast",
    "name": "Moong Dal Chilla with Pudina Chutney",
-   "desc": "Protein se bharpoor, kam tel mein.",
+   "desc": "High in protein and light on oil.",
    "ingredients": [
     {
      "item": "moong dal",
@@ -32,16 +32,16 @@
     }
    ],
    "steps": [
-    "Moong dal 3 ghante bhigo kar mirch ke saath pees lein.",
-    "Tawa par patla chilla failayein, thoda tel lagayein.",
-    "Dono taraf sek kar pudina-dahi chutney ke saath parosein."
+    "Soak moong dal for 3 hours and grind with green chilli.",
+    "Spread a thin chilla on a tawa and brush with a little oil.",
+    "Cook both sides and serve with pudina-dahi chutney."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Lauki Chana Dal with Phulka",
-   "desc": "Halki, pachne mein aasaan sabzi.",
+   "desc": "A light sabzi that is easy to digest.",
    "ingredients": [
     {
      "item": "lauki",
@@ -70,16 +70,16 @@
     }
    ],
    "steps": [
-    "Chana dal ko 30 minute bhigo dein.",
-    "Jeera, tamatar, lauki aur dal ko haldi-namak ke saath cooker mein pakayein.",
-    "Phulke sek kar garam sabzi ke saath dein."
+    "Soak chana dal for 30 minutes.",
+    "Pressure cook jeera, tamatar, lauki and dal with haldi and salt.",
+    "Serve the hot sabzi with freshly made phulkas."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Palak Paneer with Roti",
-   "desc": "Hare palak aur paneer ki classic jodi.",
+   "desc": "The classic pairing of spinach and paneer.",
    "ingredients": [
     {
      "item": "palak",
@@ -108,9 +108,9 @@
     }
    ],
    "steps": [
-    "Palak ko ubaal kar mixer mein pees lein.",
-    "Pyaaz-tamatar bhunein, palak puree aur masale daalein.",
-    "Paneer ke tukde daal kar 3 minute pakayein, roti ke saath parosein."
+    "Blanch the palak and blend to a puree.",
+    "Saute pyaaz and tamatar, then add the palak puree and spices.",
+    "Add paneer cubes, cook for 3 minutes and serve with roti."
    ],
    "months": [
     10,
@@ -125,7 +125,7 @@
   {
    "slot": "breakfast",
    "name": "Poha with Moongfali",
-   "desc": "Halka, jaldi bannewala nashta.",
+   "desc": "A light breakfast that is ready fast.",
    "ingredients": [
     {
      "item": "poha",
@@ -154,16 +154,16 @@
     }
    ],
    "steps": [
-    "Poha dhokar chhan lein.",
-    "Tel mein rai, moongfali, pyaaz aur mirch bhunein.",
-    "Poha, haldi, namak mila kar 2 minute dhak dein, nimbu nichod dein."
+    "Rinse the poha and drain well.",
+    "Temper rai, moongfali, pyaaz and green chilli in oil.",
+    "Add poha, haldi and salt, cover for 2 minutes and finish with nimbu."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Rajma Chawal with Kachumber",
-   "desc": "Sabke pasand ka rajma chawal.",
+   "desc": "Everyone's favourite comfort food.",
    "ingredients": [
     {
      "item": "rajma",
@@ -192,9 +192,9 @@
     }
    ],
    "steps": [
-    "Rajma raat bhar bhigo kar cooker mein ubaal lein.",
-    "Pyaaz-tamatar ka masala bhun kar rajma daalein aur 15 minute pakayein.",
-    "Chawal ke saath garam parosein, kachumber side mein."
+    "Soak rajma overnight and boil in a pressure cooker.",
+    "Make a pyaaz-tamatar masala, add the rajma and simmer for 15 minutes.",
+    "Serve hot over chawal with kachumber on the side."
    ],
    "tags": [
     "heavy",
@@ -204,7 +204,7 @@
   {
    "slot": "dinner",
    "name": "Bhindi Masala with Dal Tadka and Roti",
-   "desc": "Kam tel ki kurkuri bhindi.",
+   "desc": "Crisp bhindi with very little oil.",
    "ingredients": [
     {
      "item": "bhindi",
@@ -233,16 +233,16 @@
     }
    ],
    "steps": [
-    "Bhindi dho kar sukha lein aur kaat lein.",
-    "Pyaaz ke saath bhindi ko dhak kar pakayein, masale daalein.",
-    "Dal ubaal kar lahsun-jeera ka tadka lagayein, roti ke saath dein."
+    "Wash bhindi, dry it completely and chop.",
+    "Cook bhindi with pyaaz, covered, and add the spices.",
+    "Boil the dal and finish with a lahsun-jeera tadka. Serve with roti."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Vegetable Upma",
-   "desc": "Sooji aur sabziyon ka halka nashta.",
+   "desc": "A light breakfast of sooji and vegetables.",
    "ingredients": [
     {
      "item": "sooji",
@@ -271,16 +271,16 @@
     }
    ],
    "steps": [
-    "Sooji ko sukha bhun kar alag rakh lein.",
-    "Tel mein rai, pyaaz, sabziyan aur curry patta bhunein.",
-    "Paani daal kar ubalne par sooji daalein aur 3 minute dhak dein."
+    "Dry roast the sooji and set aside.",
+    "Temper rai, pyaaz, vegetables and curry patta in oil.",
+    "Add water, bring to a boil, stir in the sooji and cover for 3 minutes."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Kadhi Chawal",
-   "desc": "Khatti-meethi dahi ki kadhi.",
+   "desc": "Tangy and mildly sweet dahi kadhi.",
    "ingredients": [
     {
      "item": "dahi",
@@ -309,9 +309,9 @@
     }
    ],
    "steps": [
-    "Dahi, besan aur paani ko achhe se phent lein.",
-    "Dheemi aanch par ubaal aane tak hilate rahein, 15 minute pakayein.",
-    "Jeera-curry patta ka tadka lagayein, chawal ke saath dein."
+    "Whisk dahi, besan and water until smooth.",
+    "Cook on low heat, stirring, for about 15 minutes after it comes to a boil.",
+    "Finish with a jeera and curry patta tadka and serve with chawal."
    ],
    "tags": [
     "sunday-special"
@@ -320,7 +320,7 @@
   {
    "slot": "dinner",
    "name": "Masala Anda Bhurji with Multigrain Roti",
-   "desc": "Jaldi bannewala protein wala dinner.",
+   "desc": "A quick, protein-rich dinner.",
    "ingredients": [
     {
      "item": "anda",
@@ -349,9 +349,9 @@
     }
    ],
    "steps": [
-    "Pyaaz, tamatar, mirch ko tel mein bhunein.",
-    "Anda phod kar daalein, masale daal kar bhurji banayein.",
-    "Garam multigrain roti ke saath parosein."
+    "Saute pyaaz, tamatar and green chilli in oil.",
+    "Crack in the eggs, add the spices and scramble.",
+    "Serve hot with multigrain roti."
    ],
    "tags": [
     "egg"
@@ -360,7 +360,7 @@
   {
    "slot": "breakfast",
    "name": "Aloo Paratha with Dahi",
-   "desc": "Kam ghee wala garam paratha.",
+   "desc": "A hot paratha with very little ghee.",
    "ingredients": [
     {
      "item": "aloo",
@@ -389,9 +389,9 @@
     }
    ],
    "steps": [
-    "Ubale aloo mash karke namak, mirch, dhaniya mila lein.",
-    "Atta ki loi mein bharwan bhar kar belein.",
-    "Tawa par thode ghee se dono taraf sekein, dahi ke saath dein."
+    "Mash boiled aloo with salt, green chilli and dhaniya.",
+    "Stuff the filling into atta dough and roll out.",
+    "Cook on a tawa with a little ghee on both sides and serve with dahi."
    ],
    "tags": [
     "heavy"
@@ -400,7 +400,7 @@
   {
    "slot": "lunch",
    "name": "Masoor Dal with Tinda Sabzi and Phulka",
-   "desc": "Halki ghar ki thali.",
+   "desc": "A light, homely thali.",
    "ingredients": [
     {
      "item": "masoor dal",
@@ -429,16 +429,16 @@
     }
    ],
    "steps": [
-    "Masoor dal ko haldi-namak ke saath 3 seeti tak pakayein.",
-    "Tinda ko jeera, tamatar ke saath dhak kar pakayein.",
-    "Dal par tadka lagayein, phulka ke saath dein."
+    "Pressure cook masoor dal with haldi and salt for 3 whistles.",
+    "Cook tinda covered with jeera and tamatar.",
+    "Temper the dal and serve with phulka."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Masala Khichdi with Dahi and Achaar",
-   "desc": "Halka aur santulit raat ka khana.",
+   "desc": "A light, balanced dinner.",
    "ingredients": [
     {
      "item": "chawal",
@@ -467,9 +467,9 @@
     }
    ],
    "steps": [
-    "Chawal aur moong dal ko dho lein.",
-    "Ghee-jeera ka tadka karke haldi, namak ke saath cooker mein pakayein.",
-    "Garam khichdi dahi aur achaar ke saath dein."
+    "Wash the chawal and moong dal.",
+    "Make a ghee-jeera tadka and pressure cook with haldi and salt.",
+    "Serve hot khichdi with dahi and achaar."
    ],
    "tags": [
     "thursday-khichdi"
@@ -478,7 +478,7 @@
   {
    "slot": "breakfast",
    "name": "Paneer Sandwich (Brown Bread)",
-   "desc": "Grilled, kam makhan ke saath.",
+   "desc": "Grilled, with very little butter.",
    "ingredients": [
     {
      "item": "brown bread",
@@ -507,16 +507,16 @@
     }
    ],
    "steps": [
-    "Paneer crumble karke kati sabziyon aur namak-kali mirch ke saath mila lein.",
-    "Bread par chutney lagayein, filling bhar dein.",
-    "Tawa ya toaster mein sunehra hone tak sek lein."
+    "Crumble the paneer and mix with chopped vegetables, salt and black pepper.",
+    "Spread chutney on the bread and add the filling.",
+    "Toast on a tawa or in a toaster until golden."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Arhar Dal with Aloo Gobhi and Roti",
-   "desc": "Rozmarra ki sabzi aur dal.",
+   "desc": "Everyday sabzi and dal.",
    "ingredients": [
     {
      "item": "arhar dal",
@@ -545,9 +545,9 @@
     }
    ],
    "steps": [
-    "Dal ko cooker mein pakayein aur tadka lagayein.",
-    "Aloo-gobhi ko adrak, haldi, dhaniya ke saath dhak kar pakayein.",
-    "Garam roti ke saath dein."
+    "Pressure cook the dal and add a tadka.",
+    "Cook aloo and gobhi covered with adrak, haldi and dhaniya.",
+    "Serve with hot roti."
    ],
    "months": [
     10,
@@ -562,7 +562,7 @@
   {
    "slot": "dinner",
    "name": "Mix Veg Pulao with Raita",
-   "desc": "Ek pot mein poora khana.",
+   "desc": "A complete meal in one pot.",
    "ingredients": [
     {
      "item": "chawal",
@@ -591,9 +591,9 @@
     }
    ],
    "steps": [
-    "Chawal dho kar 20 minute bhigo dein.",
-    "Tel mein jeera, tej patta aur sabziyan bhun kar chawal daalein.",
-    "Dugna paani daal kar dhak dein, dahi ka raita bana kar parosein."
+    "Wash chawal and soak for 20 minutes.",
+    "Saute jeera, tej patta and the vegetables, then add the chawal.",
+    "Add double the water and cover. Serve with dahi raita."
    ],
    "tags": [
     "heavy"
@@ -602,7 +602,7 @@
   {
    "slot": "breakfast",
    "name": "Sooji Cheela with Vegetables",
-   "desc": "Jaldi bannewala kurkura nashta.",
+   "desc": "A quick, crisp breakfast.",
    "ingredients": [
     {
      "item": "sooji",
@@ -631,16 +631,16 @@
     }
    ],
    "steps": [
-    "Sooji aur dahi ka ghol 15 minute rakhein.",
-    "Kati sabziyan mila kar tawa par patla failayein.",
-    "Dono taraf sek kar chutney ke saath dein."
+    "Mix sooji and dahi into a batter and rest for 15 minutes.",
+    "Stir in chopped vegetables and spread thinly on a tawa.",
+    "Cook both sides and serve with chutney."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Kala Chana Curry with Phulka",
-   "desc": "Fiber aur protein se bharpoor.",
+   "desc": "Rich in fibre and protein.",
    "ingredients": [
     {
      "item": "kala chana",
@@ -669,16 +669,16 @@
     }
    ],
    "steps": [
-    "Chana raat bhar bhigo kar cooker mein ubaal lein.",
-    "Pyaaz-tamatar ka masala bhun kar chana daalein.",
-    "10 minute pakayein, phulka ke saath dein."
+    "Soak kala chana overnight and boil in a pressure cooker.",
+    "Make a pyaaz-tamatar masala and add the chana.",
+    "Simmer for 10 minutes and serve with phulka."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Baingan Bharta with Roti",
-   "desc": "Bhuna hua dhuenwala swaad.",
+   "desc": "Smoky roasted baingan.",
    "ingredients": [
     {
      "item": "baingan",
@@ -707,16 +707,16 @@
     }
    ],
    "steps": [
-    "Baingan ko seedhi aanch par bhun lein, chhilka utar kar mash karein.",
-    "Lahsun, pyaaz, tamatar bhunein.",
-    "Baingan daal kar 5 minute pakayein, roti ke saath dein."
+    "Roast the baingan over a flame, peel and mash.",
+    "Saute lahsun, pyaaz and tamatar.",
+    "Add the baingan, cook for 5 minutes and serve with roti."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Methi Thepla with Dahi",
-   "desc": "Hari methi ke saath nashta.",
+   "desc": "A breakfast with fresh methi.",
    "ingredients": [
     {
      "item": "methi",
@@ -745,9 +745,9 @@
     }
    ],
    "steps": [
-    "Kati methi, atta, besan aur masale mila kar naram atta goonth lein.",
-    "Patla bel kar tawa par sekein.",
-    "Dahi ke saath parosein."
+    "Knead a soft dough with chopped methi, atta, besan and spices.",
+    "Roll thin and cook on a tawa.",
+    "Serve with dahi."
    ],
    "months": [
     10,
@@ -762,7 +762,7 @@
   {
    "slot": "lunch",
    "name": "Chhole Bhature (Baked Bhature)",
-   "desc": "Ravivar ka special, kam tel mein.",
+   "desc": "A Sunday special, with less oil.",
    "ingredients": [
     {
      "item": "kabuli chana",
@@ -791,9 +791,9 @@
     }
    ],
    "steps": [
-    "Chane raat bhar bhigo kar chai-patti ke saath ubaal lein.",
-    "Pyaaz-tamatar masala bhun kar chole aur chole masala daalein, 15 minute pakayein.",
-    "Maida aur dahi ka atta goonth kar bhature bel lein, oven ya tawa par sekein."
+    "Soak chane overnight and boil with tea leaves.",
+    "Make a pyaaz-tamatar masala, add the chane and chole masala and simmer for 15 minutes.",
+    "Knead maida and dahi into a dough, roll out the bhature and bake or cook on a tawa."
    ],
    "tags": [
     "heavy",
@@ -803,7 +803,7 @@
   {
    "slot": "dinner",
    "name": "Palak Dal with Jeera Rice",
-   "desc": "Halka dinner, bhari dopahar ke baad.",
+   "desc": "A light dinner after a heavy lunch.",
    "ingredients": [
     {
      "item": "moong dal",
@@ -832,9 +832,9 @@
     }
    ],
    "steps": [
-    "Dal aur kata palak cooker mein pakayein.",
-    "Lahsun-jeera ka tadka lagayein.",
-    "Jeera daale chawal ke saath dein."
+    "Pressure cook the dal with chopped palak.",
+    "Add a lahsun-jeera tadka.",
+    "Serve with jeera chawal."
    ],
    "months": [
     10,
@@ -849,7 +849,7 @@
   {
    "slot": "breakfast",
    "name": "Masala Omelette with Toast",
-   "desc": "Sabziyon wala fluffy omelette.",
+   "desc": "A fluffy omelette with vegetables.",
    "ingredients": [
     {
      "item": "anda",
@@ -878,9 +878,9 @@
     }
    ],
    "steps": [
-    "Anda phent kar kati pyaaz, mirch, dhaniya aur namak mila lein.",
-    "Tawa par thode tel mein omelette sekein.",
-    "Toast ke saath garam parosein."
+    "Whisk eggs with chopped pyaaz, green chilli, dhaniya and salt.",
+    "Cook the omelette on a tawa in a little oil.",
+    "Serve hot with toast."
    ],
    "tags": [
     "egg"
@@ -889,7 +889,7 @@
   {
    "slot": "lunch",
    "name": "Soya Chunk Pulao with Raita",
-   "desc": "Protein se bharpoor pulao.",
+   "desc": "A protein-rich pulao.",
    "ingredients": [
     {
      "item": "soya chunks",
@@ -918,9 +918,9 @@
     }
    ],
    "steps": [
-    "Soya chunks garam paani mein bhigo kar nichod lein.",
-    "Tel mein masale, pyaaz, matar aur soya bhunein.",
-    "Chawal aur paani daal kar pakayein, raita ke saath dein."
+    "Soak soya chunks in hot water and squeeze out the water.",
+    "Saute spices, pyaaz, matar and the soya in oil.",
+    "Add chawal and water and cook. Serve with raita."
    ],
    "tags": [
     "heavy"
@@ -929,7 +929,7 @@
   {
    "slot": "dinner",
    "name": "Mixed Dal with Gobhi Sabzi and Roti",
-   "desc": "Sabziyon aur dalon ka santulan.",
+   "desc": "A balance of dals and vegetables.",
    "ingredients": [
     {
      "item": "mixed dal",
@@ -958,9 +958,9 @@
     }
    ],
    "steps": [
-    "Mixed dal ko cooker mein pakayein, tadka lagayein.",
-    "Gobhi ko adrak-jeera ke saath dhak kar pakayein.",
-    "Roti ke saath dein."
+    "Pressure cook the mixed dal and add a tadka.",
+    "Cook gobhi covered with adrak and jeera.",
+    "Serve with roti."
    ],
    "months": [
     10,
@@ -975,7 +975,7 @@
   {
    "slot": "breakfast",
    "name": "Namkeen Dalia with Vegetables",
-   "desc": "Fiber wala, dil ke liye achha.",
+   "desc": "Full of fibre and good for the heart.",
    "ingredients": [
     {
      "item": "dalia",
@@ -1004,16 +1004,16 @@
     }
    ],
    "steps": [
-    "Tel mein jeera, pyaaz aur sabziyan bhunein.",
-    "Dalia daal kar 2 minute bhunein.",
-    "Teen guna paani daal kar naram hone tak pakayein."
+    "Saute jeera, pyaaz and vegetables in oil.",
+    "Add the dalia and roast for 2 minutes.",
+    "Add 3 times the water and cook until soft."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Dal Makhani (Light) with Roti",
-   "desc": "Kam makhan wali creamy dal.",
+   "desc": "A creamy dal with less butter.",
    "ingredients": [
     {
      "item": "sabut urad",
@@ -1042,9 +1042,9 @@
     }
    ],
    "steps": [
-    "Urad aur rajma raat bhar bhigo kar cooker mein khoob pakayein.",
-    "Tamatar puree aur masale mila kar dheemi aanch par 20 minute pakayein.",
-    "Thoda makhan daal kar roti ke saath dein."
+    "Soak urad and rajma overnight and pressure cook until very soft.",
+    "Add tamatar puree and spices and simmer on low heat for 20 minutes.",
+    "Finish with a little makhan and serve with roti."
    ],
    "tags": [
     "heavy"
@@ -1053,7 +1053,7 @@
   {
    "slot": "dinner",
    "name": "Aloo Methi with Roti and Dahi",
-   "desc": "Sardiyon ka favourite, kam masale mein.",
+   "desc": "A winter favourite with mild spices.",
    "ingredients": [
     {
      "item": "aloo",
@@ -1082,9 +1082,9 @@
     }
    ],
    "steps": [
-    "Aloo kaat kar lahsun-jeera ke saath bhunein.",
-    "Methi daal kar 5 minute dhak kar pakayein.",
-    "Roti aur dahi ke saath dein."
+    "Saute chopped aloo with lahsun and jeera.",
+    "Add methi, cover and cook for 5 minutes.",
+    "Serve with roti and dahi."
    ],
    "months": [
     10,
@@ -1099,7 +1099,7 @@
   {
    "slot": "breakfast",
    "name": "Gobhi Paratha with Dahi",
-   "desc": "Garam masaledar paratha.",
+   "desc": "A hot, spiced paratha.",
    "ingredients": [
     {
      "item": "gobhi",
@@ -1128,9 +1128,9 @@
     }
    ],
    "steps": [
-    "Gobhi kaddukas karke nichod lein, masale mila lein.",
-    "Atta mein bharwan bhar kar parathe belein.",
-    "Tawa par sekein, dahi ke saath dein."
+    "Grate the gobhi, squeeze out the water and mix in spices.",
+    "Stuff into atta dough and roll out.",
+    "Cook on a tawa and serve with dahi."
    ],
    "months": [
     10,
@@ -1147,7 +1147,7 @@
   {
    "slot": "lunch",
    "name": "Tamatar Dhaniya Dal with Jeera Aloo and Roti",
-   "desc": "Taazi, khushboodar dal.",
+   "desc": "A fresh, fragrant dal.",
    "ingredients": [
     {
      "item": "toor dal",
@@ -1176,16 +1176,16 @@
     }
    ],
    "steps": [
-    "Dal tamatar ke saath pakayein, dhaniya daal dein.",
-    "Aloo ko jeera ke saath bhun kar pakayein.",
-    "Roti ke saath dein."
+    "Cook the dal with tamatar and stir in dhaniya.",
+    "Saute aloo with jeera until tender.",
+    "Serve with roti."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Egg Curry with Roti",
-   "desc": "Gharelu masaledar anda curry.",
+   "desc": "A homestyle spiced egg curry.",
    "ingredients": [
     {
      "item": "anda",
@@ -1214,9 +1214,9 @@
     }
    ],
    "steps": [
-    "Ande ubaal kar chhil lein aur ek-ek cheera laga dein.",
-    "Pyaaz-tamatar ka masala bhun kar paani daalein.",
-    "Ande daal kar 5 minute pakayein, roti ke saath dein."
+    "Boil the eggs, peel and make a slit in each.",
+    "Make a pyaaz-tamatar masala and add water.",
+    "Add the eggs, simmer for 5 minutes and serve with roti."
    ],
    "tags": [
     "egg"
@@ -1225,7 +1225,7 @@
   {
    "slot": "breakfast",
    "name": "Besan Cheela with Green Chutney",
-   "desc": "Garam, naram aur protein wala.",
+   "desc": "Warm, soft and high in protein.",
    "ingredients": [
     {
      "item": "besan",
@@ -1254,16 +1254,16 @@
     }
    ],
    "steps": [
-    "Besan mein paani, namak, ajwain mila kar ghol banayein.",
-    "Kati sabziyan daal kar tawa par patla cheela sekein.",
-    "Hari chutney ke saath garam dein."
+    "Mix besan with water, salt and ajwain into a batter.",
+    "Add chopped vegetables and cook thin cheelas on a tawa.",
+    "Serve hot with green chutney."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Lobia Curry with Rice",
-   "desc": "Halki dal jaisi curry.",
+   "desc": "A light, dal-like curry.",
    "ingredients": [
     {
      "item": "lobia",
@@ -1292,16 +1292,16 @@
     }
    ],
    "steps": [
-    "Lobia 4 ghante bhigo kar cooker mein ubaal lein.",
-    "Pyaaz-tamatar-adrak ka masala bhunein.",
-    "Lobia daal kar 10 minute pakayein, chawal ke saath dein."
+    "Soak lobia for 4 hours and boil in a pressure cooker.",
+    "Make a pyaaz, tamatar and adrak masala.",
+    "Add the lobia and simmer for 10 minutes. Serve with chawal."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Moong Dal Khichdi with Lauki Raita",
-   "desc": "Halka aur pet ke liye aaram.",
+   "desc": "Light and gentle on the stomach.",
    "ingredients": [
     {
      "item": "chawal",
@@ -1330,9 +1330,9 @@
     }
    ],
    "steps": [
-    "Chawal aur dhuli moong dal ko ghee-jeera ke saath cooker mein pakayein.",
-    "Kaddukas ki hui lauki ubaal kar dahi mein mila kar raita banayein.",
-    "Garam khichdi raita ke saath dein."
+    "Pressure cook chawal and dhuli moong dal with a ghee-jeera tadka.",
+    "Boil grated lauki and mix into dahi to make the raita.",
+    "Serve the hot khichdi with the raita."
    ],
    "tags": [
     "thursday-khichdi"
@@ -1341,7 +1341,7 @@
   {
    "slot": "breakfast",
    "name": "Masala Oats with Vegetables",
-   "desc": "Kam samay mein tayar.",
+   "desc": "Ready in minutes.",
    "ingredients": [
     {
      "item": "oats",
@@ -1370,16 +1370,16 @@
     }
    ],
    "steps": [
-    "Tel mein jeera, pyaaz aur sabziyan bhunein.",
-    "Paani aur masale daal kar ubalein.",
-    "Oats daal kar 3 minute pakayein."
+    "Saute jeera, pyaaz and vegetables in oil.",
+    "Add water and spices and bring to a boil.",
+    "Stir in the oats and cook for 3 minutes."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Dahi Wale Aloo with Moong Dal and Roti",
-   "desc": "Khatte-meethe aloo.",
+   "desc": "Tangy dahi aloo.",
    "ingredients": [
     {
      "item": "aloo",
@@ -1408,16 +1408,16 @@
     }
    ],
    "steps": [
-    "Aloo ubaal kar tukde kar lein, jeera ke saath bhunein.",
-    "Phenti dahi aur masale daal kar 5 minute pakayein.",
-    "Moong dal tadka aur roti ke saath dein."
+    "Boil the aloo, cut into pieces and saute with jeera.",
+    "Add whisked dahi and spices and cook for 5 minutes.",
+    "Serve with moong dal tadka and roti."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Matar Paneer with Roti",
-   "desc": "Taazi matar ka mausam.",
+   "desc": "Made with fresh winter matar.",
    "ingredients": [
     {
      "item": "matar",
@@ -1446,16 +1446,16 @@
     }
    ],
    "steps": [
-    "Pyaaz-tamatar ka masala bhun kar pees lein.",
-    "Matar daal kar 8 minute pakayein.",
-    "Paneer daal kar 3 minute dhak dein, roti ke saath dein."
+    "Make a pyaaz-tamatar masala and blend it.",
+    "Add the matar and cook for 8 minutes.",
+    "Add paneer, cover for 3 minutes and serve with roti."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Paneer Paratha with Chaas",
-   "desc": "Pet bharne wala protein nashta.",
+   "desc": "A filling, protein-rich breakfast.",
    "ingredients": [
     {
      "item": "paneer",
@@ -1484,9 +1484,9 @@
     }
    ],
    "steps": [
-    "Paneer crumble karke masale mila lein.",
-    "Atta mein bharwan bhar kar parathe belein.",
-    "Thode ghee se sek kar chaas ke saath dein."
+    "Crumble the paneer and mix in the spices.",
+    "Stuff into atta dough and roll out.",
+    "Cook with a little ghee and serve with chaas."
    ],
    "tags": [
     "heavy"
@@ -1495,7 +1495,7 @@
   {
    "slot": "lunch",
    "name": "Kaddu Sabzi with Chana Dal and Phulka",
-   "desc": "Halki meethi kaddu ki sabzi.",
+   "desc": "A lightly sweet kaddu sabzi.",
    "ingredients": [
     {
      "item": "kaddu",
@@ -1524,16 +1524,16 @@
     }
    ],
    "steps": [
-    "Chana dal ko cooker mein pakayein, tadka lagayein.",
-    "Kaddu ko methi dana, amchur ke saath dhak kar pakayein.",
-    "Phulka ke saath dein."
+    "Pressure cook the chana dal and add a tadka.",
+    "Cook kaddu covered with methi dana and amchur.",
+    "Serve with phulka."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Mushroom Matar with Phulka",
-   "desc": "Halki aur swadisht sabzi.",
+   "desc": "A light and tasty sabzi.",
    "ingredients": [
     {
      "item": "mushroom",
@@ -1562,16 +1562,16 @@
     }
    ],
    "steps": [
-    "Pyaaz-tamatar ka masala bhunein.",
-    "Mushroom aur matar daal kar 8 minute pakayein.",
-    "Phulka ke saath garam dein."
+    "Make a pyaaz-tamatar masala.",
+    "Add the mushroom and matar and cook for 8 minutes.",
+    "Serve hot with phulka."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Missi Roti with Dahi and Achaar",
-   "desc": "Besan aur atta ki khushboodar roti.",
+   "desc": "A fragrant roti of besan and atta.",
    "ingredients": [
     {
      "item": "besan",
@@ -1600,16 +1600,16 @@
     }
    ],
    "steps": [
-    "Besan, atta, ajwain, namak aur hari mirch ka atta goonth lein.",
-    "Roti bel kar tawa par sekein.",
-    "Dahi aur achaar ke saath dein."
+    "Knead besan, atta, ajwain, salt and green chilli into a dough.",
+    "Roll out and cook on a tawa.",
+    "Serve with dahi and achaar."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Veg Biryani with Boondi Raita",
-   "desc": "Sabziyon wali khushboodar biryani.",
+   "desc": "A fragrant biryani full of vegetables.",
    "ingredients": [
     {
      "item": "basmati chawal",
@@ -1638,9 +1638,9 @@
     }
    ],
    "steps": [
-    "Chawal 20 minute bhigo kar aadha pakayein.",
-    "Sabziyon ko dahi aur biryani masale mein bhun lein.",
-    "Parat laga kar dhak kar dum par 15 minute pakayein, boondi raita ke saath dein."
+    "Soak basmati chawal for 20 minutes and parboil.",
+    "Cook the vegetables in dahi and biryani masala.",
+    "Layer, cover and cook on dum for 15 minutes. Serve with boondi raita."
    ],
    "tags": [
     "heavy",
@@ -1650,7 +1650,7 @@
   {
    "slot": "dinner",
    "name": "Tamatar Soup with Veg Sandwich",
-   "desc": "Halka raat ka khana.",
+   "desc": "A light dinner.",
    "ingredients": [
     {
      "item": "tamatar",
@@ -1679,16 +1679,16 @@
     }
    ],
    "steps": [
-    "Tamatar ubaal kar pees lein, namak-kali mirch daal kar chhan lein.",
-    "Bread par sabziyan laga kar sandwich banayein.",
-    "Garam soup ke saath toast kiya sandwich dein."
+    "Boil the tamatar, blend, season with salt and black pepper and strain.",
+    "Layer vegetables between slices of bread to make sandwiches.",
+    "Serve hot soup with toasted sandwiches."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Mooli Paratha with Dahi",
-   "desc": "Sardiyon ka classic paratha.",
+   "desc": "A classic winter paratha.",
    "ingredients": [
     {
      "item": "mooli",
@@ -1717,9 +1717,9 @@
     }
    ],
    "steps": [
-    "Mooli kaddukas kar ke achhe se nichod lein, masale mila lein.",
-    "Atta mein bharwan bhar kar parathe belein.",
-    "Tawa par thode ghee se sek kar dahi ke saath dein."
+    "Grate the mooli, squeeze out all the water and mix in spices.",
+    "Stuff into atta dough and roll out.",
+    "Cook on a tawa with a little ghee and serve with dahi."
    ],
    "months": [
     10,
@@ -1736,7 +1736,7 @@
   {
    "slot": "lunch",
    "name": "Arbi Masala with Moong Dal Tadka and Roti",
-   "desc": "Kam tel mein bhuni arbi.",
+   "desc": "Pan-cooked arbi with little oil.",
    "ingredients": [
     {
      "item": "arbi",
@@ -1765,16 +1765,16 @@
     }
    ],
    "steps": [
-    "Arbi ubaal kar chhil lein aur kaat lein.",
-    "Ajwain, masale aur amchur ke saath tawa par bhun lein.",
-    "Moong dal tadka aur roti ke saath dein."
+    "Boil arbi, peel and cut.",
+    "Cook on a tawa with ajwain, spices and amchur.",
+    "Serve with moong dal tadka and roti."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Bharwan Shimla Mirch with Roti",
-   "desc": "Masale bhari shimla mirch.",
+   "desc": "Shimla mirch stuffed with spices.",
    "ingredients": [
     {
      "item": "shimla mirch",
@@ -1803,16 +1803,16 @@
     }
    ],
    "steps": [
-    "Aloo mash karke besan aur masale mila kar bharwan bana lein.",
-    "Shimla mirch mein bharwan bhar dein.",
-    "Tawa par dhak kar dheemi aanch par pakayein, roti ke saath dein."
+    "Mash aloo and mix with besan and spices for the filling.",
+    "Stuff the filling into the shimla mirch.",
+    "Cook covered on low heat and serve with roti."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Moong Sprouts Chaat Bowl",
-   "desc": "Fresh aur protein se bharpoor.",
+   "desc": "Fresh and rich in protein.",
    "ingredients": [
     {
      "item": "moong sprouts",
@@ -1841,16 +1841,16 @@
     }
    ],
    "steps": [
-    "Sprouts ko halka ubaal lein.",
-    "Kati sabziyan, namak, chaat masala mila lein.",
-    "Nimbu nichod kar thanda ya garam parosein."
+    "Lightly steam the sprouts.",
+    "Mix with chopped vegetables, salt and chaat masala.",
+    "Squeeze nimbu on top and serve warm or cold."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Gajar Matar Sabzi with Dal Tadka and Phulka",
-   "desc": "Sardi ki rangeen sabzi.",
+   "desc": "A colourful winter sabzi.",
    "ingredients": [
     {
      "item": "gajar",
@@ -1879,9 +1879,9 @@
     }
    ],
    "steps": [
-    "Jeera ke saath gajar-matar ko dhak kar pakayein.",
-    "Dal ubaal kar tadka lagayein.",
-    "Phulka ke saath garam dein."
+    "Cook gajar and matar covered with jeera.",
+    "Boil the dal and add a tadka.",
+    "Serve hot with phulka."
    ],
    "months": [
     10,
@@ -1896,7 +1896,7 @@
   {
    "slot": "dinner",
    "name": "Paneer Bhurji with Roti",
-   "desc": "Jaldi bannewali masaledar bhurji.",
+   "desc": "A quick, spiced bhurji.",
    "ingredients": [
     {
      "item": "paneer",
@@ -1925,16 +1925,16 @@
     }
    ],
    "steps": [
-    "Pyaaz, tamatar, mirch ko tel mein bhunein.",
-    "Crumble kiya paneer aur masale daal kar 4 minute pakayein.",
-    "Roti ke saath garam parosein."
+    "Saute pyaaz, tamatar and green chilli in oil.",
+    "Add crumbled paneer and spices and cook for 4 minutes.",
+    "Serve hot with roti."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Palak Paratha with Dahi",
-   "desc": "Hara aur sehatmand paratha.",
+   "desc": "A green, healthy paratha.",
    "ingredients": [
     {
      "item": "palak",
@@ -1963,9 +1963,9 @@
     }
    ],
    "steps": [
-    "Palak ko barik kaat kar atta, namak, ajwain ke saath goonth lein.",
-    "Parathe bel kar tawa par sekein.",
-    "Dahi ke saath parosein."
+    "Finely chop palak and knead into atta with salt and ajwain.",
+    "Roll out and cook on a tawa.",
+    "Serve with dahi."
    ],
    "months": [
     10,
@@ -1982,7 +1982,7 @@
   {
    "slot": "lunch",
    "name": "Matar Pulao with Raita",
-   "desc": "Taazi matar ka khushboodar pulao.",
+   "desc": "A fragrant pulao with fresh matar.",
    "ingredients": [
     {
      "item": "chawal",
@@ -2011,9 +2011,9 @@
     }
    ],
    "steps": [
-    "Chawal dho kar 20 minute bhigo dein.",
-    "Ghee mein jeera, tej patta aur matar bhun kar chawal daalein.",
-    "Dugna paani daal kar pakayein, raita ke saath dein."
+    "Wash chawal and soak for 20 minutes.",
+    "Saute jeera, tej patta and matar in ghee, then add the chawal.",
+    "Add double the water and cook. Serve with raita."
    ],
    "tags": [
     "heavy"
@@ -2022,7 +2022,7 @@
   {
    "slot": "dinner",
    "name": "Lauki Kofta Curry with Roti",
-   "desc": "Kam tel mein pakaye hue kofte.",
+   "desc": "Koftas cooked with very little oil.",
    "ingredients": [
     {
      "item": "lauki",
@@ -2051,9 +2051,9 @@
     }
    ],
    "steps": [
-    "Lauki kaddukas kar ke nichod lein, besan aur masale mila kar kofte banayein.",
-    "Appe pan ya oven mein kofte sek lein.",
-    "Tamatar-pyaaz ki gravy mein kofte daal kar roti ke saath dein."
+    "Grate lauki, squeeze out the water and mix with besan and spices to form koftas.",
+    "Cook the koftas in an appe pan or oven.",
+    "Add to a tamatar-pyaaz gravy and serve with roti."
    ],
    "tags": [
     "heavy"
@@ -2062,7 +2062,7 @@
   {
    "slot": "breakfast",
    "name": "Suji Uttapam with Veggies",
-   "desc": "Naram uttapam, halki chutney ke saath.",
+   "desc": "A soft uttapam with a light chutney.",
    "ingredients": [
     {
      "item": "sooji",
@@ -2091,9 +2091,9 @@
     }
    ],
    "steps": [
-    "Sooji aur dahi ka ghol 15 minute rakhein.",
-    "Tawa par moti parat failakar sabziyan daalein.",
-    "Dono taraf sek kar chutney ke saath dein."
+    "Mix sooji and dahi into a batter and rest for 15 minutes.",
+    "Spread a thick layer on a tawa and top with vegetables.",
+    "Cook both sides and serve with chutney."
    ],
    "tags": [
     "egg"
@@ -2102,7 +2102,7 @@
   {
    "slot": "lunch",
    "name": "Baingan Aloo with Chana Dal and Roti",
-   "desc": "Gharelu sookhi sabzi.",
+   "desc": "A homestyle dry sabzi.",
    "ingredients": [
     {
      "item": "baingan",
@@ -2131,16 +2131,16 @@
     }
    ],
    "steps": [
-    "Chana dal ko cooker mein pakayein, tadka lagayein.",
-    "Baingan-aloo ko jeera, haldi ke saath dhak kar pakayein.",
-    "Roti ke saath dein."
+    "Pressure cook the chana dal and add a tadka.",
+    "Cook baingan and aloo covered with jeera and haldi.",
+    "Serve with roti."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Vegetable Dalia Khichdi with Dahi",
-   "desc": "Fiber wali halki khichdi.",
+   "desc": "A fibre-rich, light khichdi.",
    "ingredients": [
     {
      "item": "dalia",
@@ -2169,9 +2169,9 @@
     }
    ],
    "steps": [
-    "Dalia aur dal ko ghee-jeera ke saath bhun lein.",
-    "Sabziyan aur 4 guna paani daal kar cooker mein pakayein.",
-    "Garam khichdi dahi ke saath dein."
+    "Roast the dalia and dal with ghee and jeera.",
+    "Add vegetables and 4 times the water and pressure cook.",
+    "Serve hot with dahi."
    ],
    "tags": [
     "thursday-khichdi"
@@ -2180,7 +2180,7 @@
   {
    "slot": "breakfast",
    "name": "Anda Bhurji Toast",
-   "desc": "Masaledar bhurji, kurkure toast par.",
+   "desc": "Spiced scrambled egg on crisp toast.",
    "ingredients": [
     {
      "item": "anda",
@@ -2209,9 +2209,9 @@
     }
    ],
    "steps": [
-    "Pyaaz-tamatar-mirch ko tel mein bhunein.",
-    "Anda phod kar bhurji bana lein.",
-    "Toast par rakh kar garam parosein."
+    "Saute pyaaz, tamatar and green chilli in oil.",
+    "Crack in the eggs and scramble.",
+    "Serve on toast while hot."
    ],
    "tags": [
     "egg"
@@ -2220,7 +2220,7 @@
   {
    "slot": "lunch",
    "name": "Dal Fry with Jeera Aloo and Roti",
-   "desc": "Dhaba style, par kam tel mein.",
+   "desc": "Dhaba style, with less oil.",
    "ingredients": [
     {
      "item": "toor dal",
@@ -2249,16 +2249,16 @@
     }
    ],
    "steps": [
-    "Dal ko cooker mein pakayein.",
-    "Pyaaz-tamatar ka tadka laga kar dal par daalein.",
-    "Jeera aloo aur roti ke saath dein."
+    "Pressure cook the dal.",
+    "Make a pyaaz-tamatar tadka and pour it over the dal.",
+    "Serve with jeera aloo and roti."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Shimla Mirch Paneer with Roti",
-   "desc": "Jaldi bannewali sookhi sabzi.",
+   "desc": "A quick dry sabzi.",
    "ingredients": [
     {
      "item": "shimla mirch",
@@ -2287,16 +2287,16 @@
     }
    ],
    "steps": [
-    "Pyaaz aur shimla mirch ko tez aanch par bhunein.",
-    "Tamatar aur masale daal kar paneer mila dein.",
-    "3 minute dhak kar roti ke saath dein."
+    "Saute pyaaz and shimla mirch on high heat.",
+    "Add tamatar and spices, then the paneer.",
+    "Cover for 3 minutes and serve with roti."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Aloo Tikki with Chutney",
-   "desc": "Tawa par sekhi kurkuri tikki.",
+   "desc": "Crisp tikkis cooked on a tawa.",
    "ingredients": [
     {
      "item": "aloo",
@@ -2325,16 +2325,16 @@
     }
    ],
    "steps": [
-    "Ubale aloo mash karke bread ka chura aur masale mila lein.",
-    "Tikki ka shape dekar kam tel mein tawa par sek lein.",
-    "Imli aur hari chutney ke saath dein."
+    "Mash boiled aloo and mix with bread crumbs and spices.",
+    "Shape into tikkis and cook on a tawa with a little oil.",
+    "Serve with imli and green chutney."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Methi Matar Malai (Light) with Roti",
-   "desc": "Methi aur matar ki halki creamy sabzi.",
+   "desc": "A light, creamy methi and matar sabzi.",
    "ingredients": [
     {
      "item": "methi",
@@ -2363,9 +2363,9 @@
     }
    ],
    "steps": [
-    "Pyaaz ko bhun kar tamatar aur masale daalein.",
-    "Methi aur matar daal kar 8 minute pakayein.",
-    "Aanch band karke phenti dahi mila kar roti ke saath dein."
+    "Saute pyaaz, then add tamatar and spices.",
+    "Add methi and matar and cook for 8 minutes.",
+    "Turn off the heat, stir in whisked dahi and serve with roti."
    ],
    "months": [
     10,
@@ -2380,7 +2380,7 @@
   {
    "slot": "dinner",
    "name": "Soya Keema Matar with Phulka",
-   "desc": "Veg keema, protein se bharpoor.",
+   "desc": "A vegetarian keema, rich in protein.",
    "ingredients": [
     {
      "item": "soya granules",
@@ -2409,16 +2409,16 @@
     }
    ],
    "steps": [
-    "Soya granules ko garam paani mein bhigo kar nichod lein.",
-    "Pyaaz-tamatar ka masala bhun kar soya aur matar daalein.",
-    "10 minute pakayein, phulka ke saath dein."
+    "Soak soya granules in hot water and squeeze out the water.",
+    "Make a pyaaz-tamatar masala and add the soya and matar.",
+    "Cook for 10 minutes and serve with phulka."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Vegetable Sevai Upma",
-   "desc": "Jaldi bannewala halka nashta.",
+   "desc": "A light breakfast that is ready fast.",
    "ingredients": [
     {
      "item": "sevai",
@@ -2447,16 +2447,16 @@
     }
    ],
    "steps": [
-    "Sevai ko halka bhun kar garam paani mein ubaal lein.",
-    "Tel mein rai, pyaaz, sabziyan aur curry patta bhunein.",
-    "Sevai mila kar nimbu nichod dein."
+    "Lightly roast the sevai and boil in hot water.",
+    "Temper rai, pyaaz, vegetables and curry patta in oil.",
+    "Mix in the sevai and squeeze over nimbu."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Rajma Masala with Jeera Rice",
-   "desc": "Khushboodar jeera rice ke saath rajma.",
+   "desc": "Rajma with fragrant jeera chawal.",
    "ingredients": [
     {
      "item": "rajma",
@@ -2485,9 +2485,9 @@
     }
    ],
    "steps": [
-    "Rajma raat bhar bhigo kar cooker mein ubaal lein.",
-    "Pyaaz-tamatar masala bhun kar rajma daal kar 15 minute pakayein.",
-    "Jeera daale chawal ke saath dein."
+    "Soak rajma overnight and boil in a pressure cooker.",
+    "Make a pyaaz-tamatar masala, add the rajma and simmer for 15 minutes.",
+    "Serve with jeera chawal."
    ],
    "tags": [
     "heavy",
@@ -2497,7 +2497,7 @@
   {
    "slot": "dinner",
    "name": "Sabut Moong Dal with Phulka",
-   "desc": "Halki aur fiber wali dal.",
+   "desc": "A light dal full of fibre.",
    "ingredients": [
     {
      "item": "sabut moong",
@@ -2526,16 +2526,16 @@
     }
    ],
    "steps": [
-    "Moong ko cooker mein naram hone tak pakayein.",
-    "Adrak, pyaaz, tamatar ka tadka lagayein.",
-    "Phulka ke saath dein."
+    "Pressure cook the sabut moong until soft.",
+    "Add a tadka of adrak, pyaaz and tamatar.",
+    "Serve with phulka."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Besan Methi Puda",
-   "desc": "Methi ki khushboo wala puda.",
+   "desc": "A puda with the aroma of methi.",
    "ingredients": [
     {
      "item": "besan",
@@ -2564,9 +2564,9 @@
     }
    ],
    "steps": [
-    "Besan, kati methi, pyaaz, masale aur paani ka ghol banayein.",
-    "Tawa par patla puda sekein.",
-    "Chutney ke saath garam dein."
+    "Make a batter of besan, chopped methi, pyaaz, spices and water.",
+    "Cook thin pudas on a tawa.",
+    "Serve hot with chutney."
    ],
    "months": [
     10,
@@ -2581,7 +2581,7 @@
   {
    "slot": "lunch",
    "name": "Dal Tadka with Gobhi Matar Sabzi and Roti",
-   "desc": "Ghar ka seedha-saada khana.",
+   "desc": "Simple home cooking.",
    "ingredients": [
     {
      "item": "arhar dal",
@@ -2610,9 +2610,9 @@
     }
    ],
    "steps": [
-    "Dal ko cooker mein pakayein, tadka lagayein.",
-    "Gobhi-matar ko jeera aur haldi ke saath dhak kar pakayein.",
-    "Roti ke saath dein."
+    "Pressure cook the dal and add a tadka.",
+    "Cook gobhi and matar covered with jeera and haldi.",
+    "Serve with roti."
    ],
    "months": [
     10,
@@ -2627,7 +2627,7 @@
   {
    "slot": "dinner",
    "name": "Egg Pulao with Raita",
-   "desc": "Ek pot mein protein wala pulao.",
+   "desc": "A protein-rich pulao in one pot.",
    "ingredients": [
     {
      "item": "anda",
@@ -2656,9 +2656,9 @@
     }
    ],
    "steps": [
-    "Ande ubaal kar chhil lein.",
-    "Tel mein jeera, pyaaz, matar aur chawal bhun kar dugna paani mein pakayein.",
-    "Ande ke tukde mila kar raita ke saath dein."
+    "Boil the eggs and peel them.",
+    "Saute jeera, pyaaz, matar and chawal in oil and cook in double the water.",
+    "Mix in the egg pieces and serve with raita."
    ],
    "tags": [
     "egg",
@@ -2668,7 +2668,7 @@
   {
    "slot": "breakfast",
    "name": "Poha with Matar and Gajar",
-   "desc": "Rangeen aur halka poha.",
+   "desc": "A colourful, light poha.",
    "ingredients": [
     {
      "item": "poha",
@@ -2697,9 +2697,9 @@
     }
    ],
    "steps": [
-    "Poha dhokar chhan lein.",
-    "Tel mein rai, pyaaz, gajar-matar bhunein.",
-    "Poha mila kar 2 minute dhak dein, nimbu nichod dein."
+    "Rinse the poha and drain well.",
+    "Temper rai, pyaaz, gajar and matar in oil.",
+    "Mix in the poha, cover for 2 minutes and squeeze over nimbu."
    ],
    "months": [
     10,
@@ -2714,7 +2714,7 @@
   {
    "slot": "lunch",
    "name": "Dahi Bhindi with Moong Dal and Phulka",
-   "desc": "Khatti dahi mein bhuni bhindi.",
+   "desc": "Bhindi in a tangy dahi gravy.",
    "ingredients": [
     {
      "item": "bhindi",
@@ -2743,16 +2743,16 @@
     }
    ],
    "steps": [
-    "Bhindi ko kam tel mein bhun lein.",
-    "Phenti dahi aur masale daal kar 3 minute dhak dein.",
-    "Moong dal aur phulka ke saath dein."
+    "Cook the bhindi in a little oil.",
+    "Add whisked dahi and spices and cover for 3 minutes.",
+    "Serve with moong dal and phulka."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Paneer Tikka (Pan-Grilled) with Phulka and Salad",
-   "desc": "Tawa par sekha masaledar paneer.",
+   "desc": "Spiced paneer grilled on a tawa.",
    "ingredients": [
     {
      "item": "paneer",
@@ -2781,16 +2781,16 @@
     }
    ],
    "steps": [
-    "Dahi aur tikka masale mein paneer aur shimla mirch marinate karein.",
-    "Tawa par kam tel mein sab taraf se sunehra sek lein.",
-    "Phulka aur salad ke saath dein."
+    "Marinate paneer and shimla mirch in dahi and tikka masala.",
+    "Cook on a tawa in a little oil until golden on all sides.",
+    "Serve with phulka and salad."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Moong Dal Paratha with Dahi",
-   "desc": "Protein wala bharwan paratha.",
+   "desc": "A stuffed paratha rich in protein.",
    "ingredients": [
     {
      "item": "moong dal",
@@ -2819,9 +2819,9 @@
     }
    ],
    "steps": [
-    "Dhuli moong dal ko bhigo kar masale ke saath halka sukha pakayein.",
-    "Atta mein bharwan bhar kar parathe belein.",
-    "Tawa par sek kar dahi ke saath dein."
+    "Soak dhuli moong dal and cook it dry with spices.",
+    "Stuff into atta dough and roll out.",
+    "Cook on a tawa and serve with dahi."
    ],
    "tags": [
     "heavy"
@@ -2830,7 +2830,7 @@
   {
    "slot": "lunch",
    "name": "Kadhi Pakoda (Light) with Chawal",
-   "desc": "Appe pan mein bane kam tel ke pakode.",
+   "desc": "Pakoras made in an appe pan with little oil.",
    "ingredients": [
     {
      "item": "dahi",
@@ -2859,9 +2859,9 @@
     }
    ],
    "steps": [
-    "Besan aur pyaaz ke pakode appe pan mein sek lein.",
-    "Dahi-besan ki kadhi 15 minute pakayein.",
-    "Pakode daal kar tadka lagayein, chawal ke saath dein."
+    "Make besan and pyaaz pakoras in an appe pan.",
+    "Cook the dahi-besan kadhi for 15 minutes.",
+    "Add the pakoras, finish with a tadka and serve with chawal."
    ],
    "tags": [
     "heavy",
@@ -2871,7 +2871,7 @@
   {
    "slot": "dinner",
    "name": "Tawa Sabzi with Roti",
-   "desc": "Mix sabziyon ki masaledar tawa sabzi.",
+   "desc": "A spicy mixed vegetable sabzi on a tawa.",
    "ingredients": [
     {
      "item": "shimla mirch",
@@ -2900,16 +2900,16 @@
     }
    ],
    "steps": [
-    "Tawa par tel mein tamatar aur masale bhunein.",
-    "Kati sabziyan daal kar dhak kar pakayein.",
-    "Tawa par hi mash kar roti ke saath dein."
+    "Cook tamatar and spices in oil on a tawa.",
+    "Add chopped vegetables and cook covered.",
+    "Mash lightly on the tawa and serve with roti."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Sattu Paratha with Chaas",
-   "desc": "Garmi dene wala, protein se bhara.",
+   "desc": "Warming and rich in protein.",
    "ingredients": [
     {
      "item": "sattu",
@@ -2938,9 +2938,9 @@
     }
    ],
    "steps": [
-    "Sattu mein pyaaz, nimbu, ajwain aur namak mila kar bharwan banayein.",
-    "Atta mein bhar kar parathe belein.",
-    "Tawa par sek kar chaas ke saath dein."
+    "Mix sattu with pyaaz, nimbu, ajwain and salt for the filling.",
+    "Stuff into atta dough and roll out.",
+    "Cook on a tawa and serve with chaas."
    ],
    "tags": [
     "heavy"
@@ -2949,7 +2949,7 @@
   {
    "slot": "lunch",
    "name": "Chana Masala (Light) with Phulka",
-   "desc": "Kam tel ka chana masala.",
+   "desc": "A chana masala with little oil.",
    "ingredients": [
     {
      "item": "kabuli chana",
@@ -2978,16 +2978,16 @@
     }
    ],
    "steps": [
-    "Chane raat bhar bhigo kar cooker mein ubaal lein.",
-    "Pyaaz-tamatar masala bhun kar chane daalein.",
-    "10 minute pakayein, phulka ke saath dein."
+    "Soak chane overnight and boil in a pressure cooker.",
+    "Make a pyaaz-tamatar masala and add the chane.",
+    "Simmer for 10 minutes and serve with phulka."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Masoor Dal Khichdi with Aloo Bharta",
-   "desc": "Halki khichdi, aloo bharta ke saath.",
+   "desc": "A light khichdi with aloo bharta.",
    "ingredients": [
     {
      "item": "chawal",
@@ -3016,9 +3016,9 @@
     }
    ],
    "steps": [
-    "Chawal aur masoor dal ko ghee-jeera ke saath cooker mein pakayein.",
-    "Aloo ubaal kar mash karein, mirch-namak aur thoda tel mila lein.",
-    "Garam khichdi bharta ke saath dein."
+    "Pressure cook chawal and masoor dal with a ghee-jeera tadka.",
+    "Boil aloo, mash it and mix with green chilli, salt and a little oil.",
+    "Serve hot khichdi with the bharta."
    ],
    "tags": [
     "thursday-khichdi"
@@ -3027,7 +3027,7 @@
   {
    "slot": "breakfast",
    "name": "Paneer Stuffed Besan Cheela",
-   "desc": "Bharwan cheela, protein ka double dose.",
+   "desc": "A stuffed cheela with a double dose of protein.",
    "ingredients": [
     {
      "item": "besan",
@@ -3056,16 +3056,16 @@
     }
    ],
    "steps": [
-    "Besan ka patla ghol banayein.",
-    "Paneer ko pyaaz-mirch ke saath crumble karke masale mila lein.",
-    "Cheela sek kar bhari hui filling mod dein."
+    "Make a thin besan batter.",
+    "Mix crumbled paneer with pyaaz, green chilli and spices.",
+    "Cook the cheela and fold over the filling."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Mixed Dal with Lauki Sabzi and Roti",
-   "desc": "Halki aur santulit thali.",
+   "desc": "A light, balanced thali.",
    "ingredients": [
     {
      "item": "mixed dal",
@@ -3094,16 +3094,16 @@
     }
    ],
    "steps": [
-    "Mixed dal ko cooker mein pakayein, tadka lagayein.",
-    "Lauki ko jeera, tamatar ke saath pakayein.",
-    "Roti ke saath dein."
+    "Pressure cook the mixed dal and add a tadka.",
+    "Cook lauki with jeera and tamatar.",
+    "Serve with roti."
    ],
    "tags": []
   },
   {
    "slot": "dinner",
    "name": "Veg Jalfrezi with Phulka",
-   "desc": "Rangeen sabziyon ki tez masale wali sabzi.",
+   "desc": "Colourful vegetables in a spicy sauce.",
    "ingredients": [
     {
      "item": "shimla mirch",
@@ -3132,16 +3132,16 @@
     }
    ],
    "steps": [
-    "Tamatar ki puree bhun kar masale daalein.",
-    "Kati sabziyan daal kar tez aanch par 5 minute pakayein.",
-    "Phulka ke saath garam dein."
+    "Cook a tamatar puree with spices.",
+    "Add chopped vegetables and cook on high heat for 5 minutes.",
+    "Serve hot with phulka."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Masala Omelette with Multigrain Toast",
-   "desc": "Fluffy omelette, fiber wala toast.",
+   "desc": "A fluffy omelette with fibre-rich toast.",
    "ingredients": [
     {
      "item": "anda",
@@ -3170,9 +3170,9 @@
     }
    ],
    "steps": [
-    "Anda phent kar kati pyaaz, mirch, dhaniya aur namak mila lein.",
-    "Tawa par thode tel mein omelette sekein.",
-    "Multigrain toast ke saath garam parosein."
+    "Whisk eggs with chopped pyaaz, green chilli, dhaniya and salt.",
+    "Cook the omelette on a tawa in a little oil.",
+    "Serve hot with multigrain toast."
    ],
    "tags": [
     "egg"
@@ -3181,7 +3181,7 @@
   {
    "slot": "lunch",
    "name": "Hara Chana Masala with Roti",
-   "desc": "Taaze hare chane ki sabzi.",
+   "desc": "A sabzi of fresh green chana.",
    "ingredients": [
     {
      "item": "hara chana",
@@ -3210,9 +3210,9 @@
     }
    ],
    "steps": [
-    "Hara chana halka ubaal lein.",
-    "Pyaaz-tamatar-adrak ka masala bhunein.",
-    "Chana daal kar 8 minute pakayein, roti ke saath dein."
+    "Lightly boil the hara chana.",
+    "Make an adrak, pyaaz and tamatar masala.",
+    "Add the chana, cook for 8 minutes and serve with roti."
    ],
    "months": [
     10,
@@ -3227,7 +3227,7 @@
   {
    "slot": "dinner",
    "name": "Dal Palak with Phulka",
-   "desc": "Halki aur hari dal.",
+   "desc": "A light, green dal.",
    "ingredients": [
     {
      "item": "toor dal",
@@ -3256,9 +3256,9 @@
     }
    ],
    "steps": [
-    "Dal aur palak cooker mein pakayein.",
-    "Lahsun-jeera ka tadka lagayein.",
-    "Phulka ke saath dein."
+    "Pressure cook the dal with palak.",
+    "Add a lahsun-jeera tadka.",
+    "Serve with phulka."
    ],
    "months": [
     10,
@@ -3273,7 +3273,7 @@
   {
    "slot": "breakfast",
    "name": "Aloo Pyaaz Paratha with Dahi",
-   "desc": "Pyaaz-aloo ki bharwan paratha.",
+   "desc": "A paratha stuffed with aloo and pyaaz.",
    "ingredients": [
     {
      "item": "aloo",
@@ -3302,9 +3302,9 @@
     }
    ],
    "steps": [
-    "Aloo mash karke bareek pyaaz aur masale mila lein.",
-    "Atta mein bhar kar parathe belein.",
-    "Tawa par thode ghee se sek kar dahi ke saath dein."
+    "Mash aloo and mix with finely chopped pyaaz and spices.",
+    "Stuff into atta dough and roll out.",
+    "Cook on a tawa with a little ghee and serve with dahi."
    ],
    "tags": [
     "heavy"
@@ -3313,7 +3313,7 @@
   {
    "slot": "lunch",
    "name": "Chole Kulche (Baked)",
-   "desc": "Ravivar ka khaas, oven mein bane kulche.",
+   "desc": "A Sunday special with oven-baked kulche.",
    "ingredients": [
     {
      "item": "kabuli chana",
@@ -3342,9 +3342,9 @@
     }
    ],
    "steps": [
-    "Chane raat bhar bhigo kar cooker mein ubaal lein, masale ke saath pakayein.",
-    "Maida-dahi ka atta goonth kar kulche bel lein.",
-    "Oven ya tawa par sek kar chole ke saath dein."
+    "Soak chane overnight, pressure cook and simmer with masala.",
+    "Knead maida and dahi into a dough and roll out the kulche.",
+    "Bake in an oven or cook on a tawa and serve with the chole."
    ],
    "tags": [
     "heavy",
@@ -3354,7 +3354,7 @@
   {
    "slot": "dinner",
    "name": "Palak Makai Sabzi with Roti",
-   "desc": "Palak aur sweet corn ki halki sabzi.",
+   "desc": "A light sabzi of palak and sweet corn.",
    "ingredients": [
     {
      "item": "palak",
@@ -3383,9 +3383,9 @@
     }
    ],
    "steps": [
-    "Palak ubaal kar pees lein.",
-    "Pyaaz-lahsun bhun kar puree aur sweet corn daalein.",
-    "8 minute pakayein, roti ke saath dein."
+    "Boil the palak and blend to a puree.",
+    "Saute pyaaz and lahsun, then add the puree and sweet corn.",
+    "Cook for 8 minutes and serve with roti."
    ],
    "months": [
     10,
@@ -3400,7 +3400,7 @@
   {
    "slot": "lunch",
    "name": "Lobia Masala with Chawal",
-   "desc": "Halki dal jaisi masaledar curry.",
+   "desc": "A light, spiced dal-like curry.",
    "ingredients": [
     {
      "item": "lobia",
@@ -3429,16 +3429,16 @@
     }
    ],
    "steps": [
-    "Lobia 4 ghante bhigo kar cooker mein ubaal lein.",
-    "Pyaaz-tamatar-adrak ka masala bhunein.",
-    "Lobia daal kar 10 minute pakayein, chawal ke saath dein."
+    "Soak lobia for 4 hours and boil in a pressure cooker.",
+    "Make an adrak, pyaaz and tamatar masala.",
+    "Add the lobia and simmer for 10 minutes. Serve with chawal."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Sarson Saag with Makki Roti",
-   "desc": "Sardiyon ka sabse khaas khana.",
+   "desc": "The best of winter food.",
    "ingredients": [
     {
      "item": "sarson",
@@ -3467,9 +3467,9 @@
     }
    ],
    "steps": [
-    "Sarson aur palak ko adrak, mirch ke saath ubaal kar mota pees lein.",
-    "Dheemi aanch par 15 minute pakayein, thoda makhan daalein.",
-    "Makki ke atta ki roti sek kar saag ke saath dein."
+    "Boil sarson and palak with adrak and green chilli, then blend coarsely.",
+    "Simmer on low heat for 15 minutes and finish with a little makhan.",
+    "Make rotis from makki atta and serve with the saag."
    ],
    "months": [
     10,
@@ -3486,7 +3486,7 @@
   {
    "slot": "dinner",
    "name": "Tamatar Dhaniya Dal with Phulka",
-   "desc": "Halka dinner, bhari dopahar ke baad.",
+   "desc": "A light dinner after a heavy lunch.",
    "ingredients": [
     {
      "item": "toor dal",
@@ -3515,16 +3515,16 @@
     }
    ],
    "steps": [
-    "Dal tamatar ke saath pakayein, dhaniya daal dein.",
-    "Jeera ka tadka lagayein.",
-    "Phulka ke saath dein."
+    "Cook the dal with tamatar and stir in dhaniya.",
+    "Add a jeera tadka.",
+    "Serve with phulka."
    ],
    "tags": []
   },
   {
    "slot": "lunch",
    "name": "Masoor Dal with Beans Sabzi and Phulka",
-   "desc": "Halki ghar ki thali.",
+   "desc": "A light, homely thali.",
    "ingredients": [
     {
      "item": "masoor dal",
@@ -3553,16 +3553,16 @@
     }
    ],
    "steps": [
-    "Masoor dal ko haldi-namak ke saath 3 seeti tak pakayein.",
-    "Beans ko jeera, tamatar ke saath dhak kar pakayein.",
-    "Dal par tadka lagayein, phulka ke saath dein."
+    "Pressure cook masoor dal with haldi and salt for 3 whistles.",
+    "Cook beans covered with jeera and tamatar.",
+    "Temper the dal and serve with phulka."
    ],
    "tags": []
   },
   {
    "slot": "breakfast",
    "name": "Dahi Poha with Kheera",
-   "desc": "Thanda, halka garmi ka nashta.",
+   "desc": "A cool, light breakfast for summer.",
    "ingredients": [
     {
      "item": "poha",
@@ -3591,9 +3591,9 @@
     }
    ],
    "steps": [
-    "Poha ko dho kar 5 minute bhigo dein.",
-    "Dahi phenti mein poha, kati kheera aur namak mila lein.",
-    "Anaar daane aur kali mirch daal kar thanda parosein."
+    "Rinse the poha and soak for 5 minutes.",
+    "Mix whisked dahi, poha, chopped kheera and salt.",
+    "Top with anaar seeds and black pepper and serve cold."
    ],
    "months": [
     4,
@@ -3605,7 +3605,7 @@
   {
    "slot": "lunch",
    "name": "Tori Moong Dal with Phulka",
-   "desc": "Garmi ki halki, cooling thali.",
+   "desc": "A light, cooling summer meal.",
    "ingredients": [
     {
      "item": "tori",
@@ -3634,9 +3634,9 @@
     }
    ],
    "steps": [
-    "Moong dal ko haldi-namak ke saath cooker mein pakayein.",
-    "Tori ko jeera, tamatar ke saath dhak kar pakayein.",
-    "Dal par tadka lagayein, phulka ke saath dein."
+    "Pressure cook moong dal with haldi and salt.",
+    "Cook tori covered with jeera and tamatar.",
+    "Temper the dal and serve with phulka."
    ],
    "months": [
     4,
@@ -3651,7 +3651,7 @@
   {
    "slot": "lunch",
    "name": "Pudina Pulao with Raita",
-   "desc": "Pudine ki thandak wala pulao.",
+   "desc": "A pulao with the coolness of pudina.",
    "ingredients": [
     {
      "item": "chawal",
@@ -3680,9 +3680,9 @@
     }
    ],
    "steps": [
-    "Chawal dho kar 20 minute bhigo dein.",
-    "Jeera, matar aur pisa pudina bhun kar chawal daalein.",
-    "Dugna paani daal kar pakayein, thande raita ke saath dein."
+    "Wash chawal and soak for 20 minutes.",
+    "Saute jeera, matar and ground pudina, then add the chawal.",
+    "Add double the water and cook. Serve with chilled raita."
    ],
    "months": [
     4,
@@ -3696,7 +3696,7 @@
   {
    "slot": "dinner",
    "name": "Tinda Sabzi with Roti",
-   "desc": "Garmi ki halki sabzi.",
+   "desc": "A light summer sabzi.",
    "ingredients": [
     {
      "item": "tinda",
@@ -3725,9 +3725,9 @@
     }
    ],
    "steps": [
-    "Tinda chhil kar kaat lein.",
-    "Pyaaz-tamatar ke saath masale daal kar dhak kar pakayein.",
-    "Roti ke saath garam dein."
+    "Peel and chop the tinda.",
+    "Cook covered with pyaaz, tamatar and spices.",
+    "Serve hot with roti."
    ],
    "months": [
     4,
@@ -3742,7 +3742,7 @@
   {
    "slot": "breakfast",
    "name": "Masala Bhutta Chaat",
-   "desc": "Barish ka mazaa, garam bhutte ke saath.",
+   "desc": "A monsoon treat with hot corn.",
    "ingredients": [
     {
      "item": "sweet corn",
@@ -3771,9 +3771,9 @@
     }
    ],
    "steps": [
-    "Sweet corn ko ubaal lein.",
-    "Kati pyaaz-tamatar aur masale mila lein.",
-    "Nimbu nichod kar garam parosein."
+    "Boil the sweet corn.",
+    "Mix with chopped pyaaz, tamatar and spices.",
+    "Squeeze over nimbu and serve warm."
    ],
    "months": [
     7,
@@ -3785,7 +3785,7 @@
   {
    "slot": "breakfast",
    "name": "Baked Moong Dal Pakode with Chutney",
-   "desc": "Barish ke liye kam tel ke pakode.",
+   "desc": "Low-oil pakodas for rainy days.",
    "ingredients": [
     {
      "item": "moong dal",
@@ -3814,9 +3814,9 @@
     }
    ],
    "steps": [
-    "Moong dal bhigo kar mota pees lein, masale mila lein.",
-    "Appe pan ya oven mein sunehra hone tak sek lein.",
-    "Hari chutney ke saath garam dein."
+    "Soak moong dal, grind coarsely and mix in the spices.",
+    "Bake in an appe pan or oven until golden.",
+    "Serve hot with green chutney."
    ],
    "months": [
     7,
@@ -3828,7 +3828,7 @@
   {
    "slot": "dinner",
    "name": "Dal Palak Soup with Toast",
-   "desc": "Barish ki shaam ka halka khana.",
+   "desc": "A light meal for a rainy evening.",
    "ingredients": [
     {
      "item": "moong dal",
@@ -3857,9 +3857,9 @@
     }
    ],
    "steps": [
-    "Dal aur palak cooker mein pakayein aur halka pees lein.",
-    "Lahsun ka tadka lagayein, kali mirch daalein.",
-    "Garam soup toast ke saath dein."
+    "Pressure cook the dal and palak and blend lightly.",
+    "Add a lahsun tadka and black pepper.",
+    "Serve hot soup with toast."
    ],
    "months": [
     7,
