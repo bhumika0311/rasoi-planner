@@ -1,8 +1,8 @@
 // Static meal-plan viewer. Each day's plan is picked in the browser from data/dishes.json by planner.js.
 import { createPlanner } from "./planner.js";
 
-const SLOT_LABEL = { breakfast: "Nashta", lunch: "Dopahar ka khana", dinner: "Raat ka khana" };
-const WEEKDAYS = ["Ravivar", "Somvar", "Mangalvar", "Budhvar", "Guruvar", "Shukravar", "Shanivar"];
+const SLOT_LABEL = { breakfast: "Breakfast", lunch: "Lunch", dinner: "Dinner" };
+const WEEKDAYS = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
 const $ = (id) => document.getElementById(id);
@@ -66,7 +66,7 @@ const isRevealed = (iso) => store.get(revealKey(iso)) === "1";
 // ---- rendering ----------------------------------------------------------
 
 async function render() {
-  $("date-label").textContent = label(current) + (current === toIso(new Date()) ? " (Aaj)" : "");
+  $("date-label").textContent = label(current) + (current === toIso(new Date()) ? " (Today)" : "");
   const result = await getDay(current);
   const mealsBox = $("meals");
   mealsBox.replaceChildren();
@@ -75,7 +75,7 @@ async function render() {
 
   if (!result) {
     note.hidden = true;
-    mealsBox.append(el("p", { class: "note warn" }, "Plan load nahi ho paya. Internet check karke dobara koshish karein."));
+    mealsBox.append(el("p", { class: "note warn" }, "Could not load the plan. Please check your internet connection and try again."));
     return;
   }
 
@@ -93,8 +93,8 @@ function mealCard(meal, iso) {
   if (hidden) {
     card.append(
       el("span", { class: "slot" }, SLOT_LABEL[meal.slot]),
-      el("span", { class: "name" }, "🎁 Aaj ka surprise!"),
-      el("span", { class: "hint" }, "Dekhne ke liye dabayein"),
+      el("span", { class: "name" }, "🎁 Today's surprise!"),
+      el("span", { class: "hint" }, "Tap to reveal"),
     );
     card.addEventListener("click", () => {
       store.set(revealKey(iso), "1");
@@ -105,7 +105,7 @@ function mealCard(meal, iso) {
       el("span", { class: "slot" }, SLOT_LABEL[meal.slot] + (meal.surprise ? " · surprise 🎁" : "")),
       el("span", { class: "name" }, meal.name),
       el("span", { class: "desc" }, meal.desc),
-      el("span", { class: "hint" }, "Recipe dekhne ke liye dabayein"),
+      el("span", { class: "hint" }, "Tap to see the recipe"),
     );
     card.addEventListener("click", () => openRecipe(meal));
   }
@@ -137,7 +137,7 @@ async function openWeek() {
       ? result.day.meals.map((m) =>
           el("span", {}, `${SLOT_LABEL[m.slot]}: ${m.surprise && !(iso === current && isRevealed(iso)) ? "🎁 Surprise" : m.name}`),
         )
-      : [el("span", {}, "Plan abhi nahi hai")];
+      : [el("span", {}, "No plan available")];
     const festival = result?.day.festival;
     list.append(
       el("div", { class: "week-row" },

@@ -1,71 +1,71 @@
 <!doctype html>
-<html lang="hi-Latn">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#c2410c">
-  <title>Aaj Kya Banega?</title>
+  <title>What's Cooking Today?</title>
   <link rel="manifest" href="manifest.json">
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="top">
-    <h1>Aaj Kya Banega? 🍛</h1>
+    <h1>What's Cooking Today? 🍛</h1>
     <p id="date-label" class="date"></p>
     <p id="day-note" class="note" hidden></p>
   </header>
 
-  <nav class="nav" aria-label="Din badlein">
-    <button id="prev" type="button">← Pichla din</button>
-    <button id="today" type="button">Aaj</button>
-    <button id="next" type="button">Agla din →</button>
+  <nav class="nav" aria-label="Change day">
+    <button id="prev" type="button">← Previous day</button>
+    <button id="today" type="button">Today</button>
+    <button id="next" type="button">Next day →</button>
   </nav>
 
   <main id="meals" aria-live="polite"></main>
 
   <section class="actions">
-    <button id="open-week" type="button" class="secondary">📅 Hafte ka plan</button>
-    <button id="open-shop" type="button" class="secondary">🛒 Saaman ki list</button>
+    <button id="open-week" type="button" class="secondary">📅 This week</button>
+    <button id="open-shop" type="button" class="secondary">🛒 Shopping list</button>
   </section>
 
   <dialog id="recipe-dialog" aria-labelledby="recipe-title">
     <article>
       <h2 id="recipe-title"></h2>
       <p id="recipe-desc" class="desc"></p>
-      <h3>Saaman (2 logon ke liye)</h3>
+      <h3>Ingredients (for 2 people)</h3>
       <ul id="recipe-ingredients"></ul>
-      <h3>Banane ka tareeka</h3>
+      <h3>Method</h3>
       <ol id="recipe-steps"></ol>
     </article>
-    <form method="dialog"><button class="close">Band karein</button></form>
+    <form method="dialog"><button class="close">Close</button></form>
   </dialog>
 
   <dialog id="week-dialog" aria-labelledby="week-title">
     <article>
-      <h2 id="week-title">Hafte ka plan</h2>
-      <p class="desc">Surprise wale khane chhupe rehte hain 🎁</p>
+      <h2 id="week-title">This week</h2>
+      <p class="desc">Surprise meals stay hidden 🎁</p>
       <div id="week-list"></div>
     </article>
-    <form method="dialog"><button class="close">Band karein</button></form>
+    <form method="dialog"><button class="close">Close</button></form>
   </dialog>
 
   <dialog id="shop-dialog" aria-labelledby="shop-title">
     <article>
-      <h2 id="shop-title">Saaman ki list</h2>
+      <h2 id="shop-title">Shopping list</h2>
       <label class="range">
-        <span>Kitne din ke liye?</span>
+        <span>For how many days?</span>
         <select id="shop-range">
-          <option value="1">Sirf aaj</option>
-          <option value="2">Aaj aur kal</option>
-          <option value="3" selected>Agle 3 din</option>
-          <option value="7">Poora hafta</option>
+          <option value="1">Today only</option>
+          <option value="2">Today and tomorrow</option>
+          <option value="3" selected>Next 3 days</option>
+          <option value="7">Whole week</option>
         </select>
       </label>
       <ul id="shop-list" class="shop"></ul>
-      <p id="shop-empty" class="desc" hidden>Is range ke liye koi plan nahi mila.</p>
+      <p id="shop-empty" class="desc" hidden>No plan found for this range.</p>
     </article>
-    <form method="dialog"><button class="close">Band karein</button></form>
+    <form method="dialog"><button class="close">Close</button></form>
   </dialog>
 
   <script src="app.js" type="module"></script>

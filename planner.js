@@ -9,10 +9,10 @@ const SLOTS = ["breakfast", "lunch", "dinner"];
 const SALT = "rasoi-v1";
 
 const SEASON_NOTE = {
-  winter: "Sardiyon ka mausam: gajar, matar, methi aur palak ka swaad.",
-  summer: "Garmi hai, halka aur thanda khana.",
-  monsoon: "Barish ka mausam, garam aur halka khana.",
-  autumn: "Suhana mausam, tyohaaron ki shuruaat.",
+  winter: "Winter is here: gajar, matar, methi and palak are in season.",
+  summer: "It's hot, so lighter and cooling meals today.",
+  monsoon: "Monsoon weather: warm, light meals today.",
+  autumn: "Pleasant weather and the start of the festive season.",
 };
 
 const monthSeason = (m) => (m === 11 || m === 12 || m <= 2 ? "winter" : m === 3 || m === 10 ? "autumn" : m <= 6 ? "summer" : "monsoon");

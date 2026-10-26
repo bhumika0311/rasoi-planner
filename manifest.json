@@ -1,7 +1,7 @@
 {
-  "name": "Aaj Kya Banega?",
-  "short_name": "Aaj Kya Banega",
-  "description": "Roz ka nashta, lunch aur dinner ka plan",
+  "name": "What's Cooking Today?",
+  "short_name": "What's Cooking",
+  "description": "Daily breakfast, lunch and dinner plan",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#fff8ee",
