@@ -1,0 +1,3872 @@
+{
+ "dishes": [
+  {
+   "slot": "breakfast",
+   "name": "Moong Dal Chilla with Pudina Chutney",
+   "desc": "Protein se bharpoor, kam tel mein.",
+   "ingredients": [
+    {
+     "item": "moong dal",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "pudina",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "dahi",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "tel",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Moong dal 3 ghante bhigo kar mirch ke saath pees lein.",
+    "Tawa par patla chilla failayein, thoda tel lagayein.",
+    "Dono taraf sek kar pudina-dahi chutney ke saath parosein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Lauki Chana Dal with Phulka",
+   "desc": "Halki, pachne mein aasaan sabzi.",
+   "ingredients": [
+    {
+     "item": "lauki",
+     "qty": 300,
+     "unit": "g"
+    },
+    {
+     "item": "chana dal",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Chana dal ko 30 minute bhigo dein.",
+    "Jeera, tamatar, lauki aur dal ko haldi-namak ke saath cooker mein pakayein.",
+    "Phulke sek kar garam sabzi ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Palak Paneer with Roti",
+   "desc": "Hare palak aur paneer ki classic jodi.",
+   "ingredients": [
+    {
+     "item": "palak",
+     "qty": 2,
+     "unit": "bunch"
+    },
+    {
+     "item": "paneer",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Palak ko ubaal kar mixer mein pees lein.",
+    "Pyaaz-tamatar bhunein, palak puree aur masale daalein.",
+    "Paneer ke tukde daal kar 3 minute pakayein, roti ke saath parosein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Poha with Moongfali",
+   "desc": "Halka, jaldi bannewala nashta.",
+   "ingredients": [
+    {
+     "item": "poha",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "moongfali",
+     "qty": 2,
+     "unit": "tbsp"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "nimbu",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Poha dhokar chhan lein.",
+    "Tel mein rai, moongfali, pyaaz aur mirch bhunein.",
+    "Poha, haldi, namak mila kar 2 minute dhak dein, nimbu nichod dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Rajma Chawal with Kachumber",
+   "desc": "Sabke pasand ka rajma chawal.",
+   "ingredients": [
+    {
+     "item": "rajma",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "chawal",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "kheera",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Rajma raat bhar bhigo kar cooker mein ubaal lein.",
+    "Pyaaz-tamatar ka masala bhun kar rajma daalein aur 15 minute pakayein.",
+    "Chawal ke saath garam parosein, kachumber side mein."
+   ],
+   "tags": [
+    "heavy",
+    "sunday-special"
+   ]
+  },
+  {
+   "slot": "dinner",
+   "name": "Bhindi Masala with Dal Tadka and Roti",
+   "desc": "Kam tel ki kurkuri bhindi.",
+   "ingredients": [
+    {
+     "item": "bhindi",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "arhar dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "lahsun",
+     "qty": 4,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Bhindi dho kar sukha lein aur kaat lein.",
+    "Pyaaz ke saath bhindi ko dhak kar pakayein, masale daalein.",
+    "Dal ubaal kar lahsun-jeera ka tadka lagayein, roti ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Vegetable Upma",
+   "desc": "Sooji aur sabziyon ka halka nashta.",
+   "ingredients": [
+    {
+     "item": "sooji",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "gajar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "matar",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "curry patta",
+     "qty": 6,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Sooji ko sukha bhun kar alag rakh lein.",
+    "Tel mein rai, pyaaz, sabziyan aur curry patta bhunein.",
+    "Paani daal kar ubalne par sooji daalein aur 3 minute dhak dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Kadhi Chawal",
+   "desc": "Khatti-meethi dahi ki kadhi.",
+   "ingredients": [
+    {
+     "item": "dahi",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "besan",
+     "qty": 3,
+     "unit": "tbsp"
+    },
+    {
+     "item": "chawal",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "curry patta",
+     "qty": 6,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Dahi, besan aur paani ko achhe se phent lein.",
+    "Dheemi aanch par ubaal aane tak hilate rahein, 15 minute pakayein.",
+    "Jeera-curry patta ka tadka lagayein, chawal ke saath dein."
+   ],
+   "tags": [
+    "sunday-special"
+   ]
+  },
+  {
+   "slot": "dinner",
+   "name": "Masala Anda Bhurji with Multigrain Roti",
+   "desc": "Jaldi bannewala protein wala dinner.",
+   "ingredients": [
+    {
+     "item": "anda",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "multigrain atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Pyaaz, tamatar, mirch ko tel mein bhunein.",
+    "Anda phod kar daalein, masale daal kar bhurji banayein.",
+    "Garam multigrain roti ke saath parosein."
+   ],
+   "tags": [
+    "egg"
+   ]
+  },
+  {
+   "slot": "breakfast",
+   "name": "Aloo Paratha with Dahi",
+   "desc": "Kam ghee wala garam paratha.",
+   "ingredients": [
+    {
+     "item": "aloo",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "dhaniya",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Ubale aloo mash karke namak, mirch, dhaniya mila lein.",
+    "Atta ki loi mein bharwan bhar kar belein.",
+    "Tawa par thode ghee se dono taraf sekein, dahi ke saath dein."
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "lunch",
+   "name": "Masoor Dal with Tinda Sabzi and Phulka",
+   "desc": "Halki ghar ki thali.",
+   "ingredients": [
+    {
+     "item": "masoor dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "tinda",
+     "qty": 300,
+     "unit": "g"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Masoor dal ko haldi-namak ke saath 3 seeti tak pakayein.",
+    "Tinda ko jeera, tamatar ke saath dhak kar pakayein.",
+    "Dal par tadka lagayein, phulka ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Masala Khichdi with Dahi and Achaar",
+   "desc": "Halka aur santulit raat ka khana.",
+   "ingredients": [
+    {
+     "item": "chawal",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "moong dal",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "ghee",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "achaar",
+     "qty": 1,
+     "unit": "tbsp"
+    }
+   ],
+   "steps": [
+    "Chawal aur moong dal ko dho lein.",
+    "Ghee-jeera ka tadka karke haldi, namak ke saath cooker mein pakayein.",
+    "Garam khichdi dahi aur achaar ke saath dein."
+   ],
+   "tags": [
+    "thursday-khichdi"
+   ]
+  },
+  {
+   "slot": "breakfast",
+   "name": "Paneer Sandwich (Brown Bread)",
+   "desc": "Grilled, kam makhan ke saath.",
+   "ingredients": [
+    {
+     "item": "brown bread",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "paneer",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "shimla mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari chutney",
+     "qty": 2,
+     "unit": "tbsp"
+    }
+   ],
+   "steps": [
+    "Paneer crumble karke kati sabziyon aur namak-kali mirch ke saath mila lein.",
+    "Bread par chutney lagayein, filling bhar dein.",
+    "Tawa ya toaster mein sunehra hone tak sek lein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Arhar Dal with Aloo Gobhi and Roti",
+   "desc": "Rozmarra ki sabzi aur dal.",
+   "ingredients": [
+    {
+     "item": "arhar dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "gobhi",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "aloo",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "adrak",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Dal ko cooker mein pakayein aur tadka lagayein.",
+    "Aloo-gobhi ko adrak, haldi, dhaniya ke saath dhak kar pakayein.",
+    "Garam roti ke saath dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Mix Veg Pulao with Raita",
+   "desc": "Ek pot mein poora khana.",
+   "ingredients": [
+    {
+     "item": "chawal",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "matar",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "gajar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "beans",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 200,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Chawal dho kar 20 minute bhigo dein.",
+    "Tel mein jeera, tej patta aur sabziyan bhun kar chawal daalein.",
+    "Dugna paani daal kar dhak dein, dahi ka raita bana kar parosein."
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "breakfast",
+   "name": "Sooji Cheela with Vegetables",
+   "desc": "Jaldi bannewala kurkura nashta.",
+   "ingredients": [
+    {
+     "item": "sooji",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "gajar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Sooji aur dahi ka ghol 15 minute rakhein.",
+    "Kati sabziyan mila kar tawa par patla failayein.",
+    "Dono taraf sek kar chutney ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Kala Chana Curry with Phulka",
+   "desc": "Fiber aur protein se bharpoor.",
+   "ingredients": [
+    {
+     "item": "kala chana",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "garam masala",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Chana raat bhar bhigo kar cooker mein ubaal lein.",
+    "Pyaaz-tamatar ka masala bhun kar chana daalein.",
+    "10 minute pakayein, phulka ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Baingan Bharta with Roti",
+   "desc": "Bhuna hua dhuenwala swaad.",
+   "ingredients": [
+    {
+     "item": "baingan",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "lahsun",
+     "qty": 3,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Baingan ko seedhi aanch par bhun lein, chhilka utar kar mash karein.",
+    "Lahsun, pyaaz, tamatar bhunein.",
+    "Baingan daal kar 5 minute pakayein, roti ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Methi Thepla with Dahi",
+   "desc": "Hari methi ke saath nashta.",
+   "ingredients": [
+    {
+     "item": "methi",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "atta",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "besan",
+     "qty": 2,
+     "unit": "tbsp"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "ajwain",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Kati methi, atta, besan aur masale mila kar naram atta goonth lein.",
+    "Patla bel kar tawa par sekein.",
+    "Dahi ke saath parosein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Chhole Bhature (Baked Bhature)",
+   "desc": "Ravivar ka special, kam tel mein.",
+   "ingredients": [
+    {
+     "item": "kabuli chana",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "maida",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "chole masala",
+     "qty": 1,
+     "unit": "tbsp"
+    }
+   ],
+   "steps": [
+    "Chane raat bhar bhigo kar chai-patti ke saath ubaal lein.",
+    "Pyaaz-tamatar masala bhun kar chole aur chole masala daalein, 15 minute pakayein.",
+    "Maida aur dahi ka atta goonth kar bhature bel lein, oven ya tawa par sekein."
+   ],
+   "tags": [
+    "heavy",
+    "sunday-special"
+   ]
+  },
+  {
+   "slot": "dinner",
+   "name": "Palak Dal with Jeera Rice",
+   "desc": "Halka dinner, bhari dopahar ke baad.",
+   "ingredients": [
+    {
+     "item": "moong dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "palak",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "chawal",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "lahsun",
+     "qty": 3,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Dal aur kata palak cooker mein pakayein.",
+    "Lahsun-jeera ka tadka lagayein.",
+    "Jeera daale chawal ke saath dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Masala Omelette with Toast",
+   "desc": "Sabziyon wala fluffy omelette.",
+   "ingredients": [
+    {
+     "item": "anda",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "brown bread",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "dhaniya",
+     "qty": 1,
+     "unit": "bunch"
+    }
+   ],
+   "steps": [
+    "Anda phent kar kati pyaaz, mirch, dhaniya aur namak mila lein.",
+    "Tawa par thode tel mein omelette sekein.",
+    "Toast ke saath garam parosein."
+   ],
+   "tags": [
+    "egg"
+   ]
+  },
+  {
+   "slot": "lunch",
+   "name": "Soya Chunk Pulao with Raita",
+   "desc": "Protein se bharpoor pulao.",
+   "ingredients": [
+    {
+     "item": "soya chunks",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "chawal",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "matar",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 200,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Soya chunks garam paani mein bhigo kar nichod lein.",
+    "Tel mein masale, pyaaz, matar aur soya bhunein.",
+    "Chawal aur paani daal kar pakayein, raita ke saath dein."
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "dinner",
+   "name": "Mixed Dal with Gobhi Sabzi and Roti",
+   "desc": "Sabziyon aur dalon ka santulan.",
+   "ingredients": [
+    {
+     "item": "mixed dal",
+     "qty": 70,
+     "unit": "g"
+    },
+    {
+     "item": "gobhi",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "adrak",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Mixed dal ko cooker mein pakayein, tadka lagayein.",
+    "Gobhi ko adrak-jeera ke saath dhak kar pakayein.",
+    "Roti ke saath dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Namkeen Dalia with Vegetables",
+   "desc": "Fiber wala, dil ke liye achha.",
+   "ingredients": [
+    {
+     "item": "dalia",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "gajar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "matar",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Tel mein jeera, pyaaz aur sabziyan bhunein.",
+    "Dalia daal kar 2 minute bhunein.",
+    "Teen guna paani daal kar naram hone tak pakayein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Dal Makhani (Light) with Roti",
+   "desc": "Kam makhan wali creamy dal.",
+   "ingredients": [
+    {
+     "item": "sabut urad",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "rajma",
+     "qty": 20,
+     "unit": "g"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "makhan",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Urad aur rajma raat bhar bhigo kar cooker mein khoob pakayein.",
+    "Tamatar puree aur masale mila kar dheemi aanch par 20 minute pakayein.",
+    "Thoda makhan daal kar roti ke saath dein."
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "dinner",
+   "name": "Aloo Methi with Roti and Dahi",
+   "desc": "Sardiyon ka favourite, kam masale mein.",
+   "ingredients": [
+    {
+     "item": "aloo",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "methi",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "lahsun",
+     "qty": 3,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Aloo kaat kar lahsun-jeera ke saath bhunein.",
+    "Methi daal kar 5 minute dhak kar pakayein.",
+    "Roti aur dahi ke saath dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Gobhi Paratha with Dahi",
+   "desc": "Garam masaledar paratha.",
+   "ingredients": [
+    {
+     "item": "gobhi",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "ajwain",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Gobhi kaddukas karke nichod lein, masale mila lein.",
+    "Atta mein bharwan bhar kar parathe belein.",
+    "Tawa par sekein, dahi ke saath dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "lunch",
+   "name": "Tamatar Dhaniya Dal with Jeera Aloo and Roti",
+   "desc": "Taazi, khushboodar dal.",
+   "ingredients": [
+    {
+     "item": "toor dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "dhaniya",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "aloo",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Dal tamatar ke saath pakayein, dhaniya daal dein.",
+    "Aloo ko jeera ke saath bhun kar pakayein.",
+    "Roti ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Egg Curry with Roti",
+   "desc": "Gharelu masaledar anda curry.",
+   "ingredients": [
+    {
+     "item": "anda",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "garam masala",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Ande ubaal kar chhil lein aur ek-ek cheera laga dein.",
+    "Pyaaz-tamatar ka masala bhun kar paani daalein.",
+    "Ande daal kar 5 minute pakayein, roti ke saath dein."
+   ],
+   "tags": [
+    "egg"
+   ]
+  },
+  {
+   "slot": "breakfast",
+   "name": "Besan Cheela with Green Chutney",
+   "desc": "Garam, naram aur protein wala.",
+   "ingredients": [
+    {
+     "item": "besan",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari chutney",
+     "qty": 2,
+     "unit": "tbsp"
+    }
+   ],
+   "steps": [
+    "Besan mein paani, namak, ajwain mila kar ghol banayein.",
+    "Kati sabziyan daal kar tawa par patla cheela sekein.",
+    "Hari chutney ke saath garam dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Lobia Curry with Rice",
+   "desc": "Halki dal jaisi curry.",
+   "ingredients": [
+    {
+     "item": "lobia",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "chawal",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "adrak",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Lobia 4 ghante bhigo kar cooker mein ubaal lein.",
+    "Pyaaz-tamatar-adrak ka masala bhunein.",
+    "Lobia daal kar 10 minute pakayein, chawal ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Moong Dal Khichdi with Lauki Raita",
+   "desc": "Halka aur pet ke liye aaram.",
+   "ingredients": [
+    {
+     "item": "chawal",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "moong dal",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "ghee",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "lauki",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 200,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Chawal aur dhuli moong dal ko ghee-jeera ke saath cooker mein pakayein.",
+    "Kaddukas ki hui lauki ubaal kar dahi mein mila kar raita banayein.",
+    "Garam khichdi raita ke saath dein."
+   ],
+   "tags": [
+    "thursday-khichdi"
+   ]
+  },
+  {
+   "slot": "breakfast",
+   "name": "Masala Oats with Vegetables",
+   "desc": "Kam samay mein tayar.",
+   "ingredients": [
+    {
+     "item": "oats",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "gajar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "matar",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Tel mein jeera, pyaaz aur sabziyan bhunein.",
+    "Paani aur masale daal kar ubalein.",
+    "Oats daal kar 3 minute pakayein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Dahi Wale Aloo with Moong Dal and Roti",
+   "desc": "Khatte-meethe aloo.",
+   "ingredients": [
+    {
+     "item": "aloo",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "moong dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Aloo ubaal kar tukde kar lein, jeera ke saath bhunein.",
+    "Phenti dahi aur masale daal kar 5 minute pakayein.",
+    "Moong dal tadka aur roti ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Matar Paneer with Roti",
+   "desc": "Taazi matar ka mausam.",
+   "ingredients": [
+    {
+     "item": "matar",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "paneer",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Pyaaz-tamatar ka masala bhun kar pees lein.",
+    "Matar daal kar 8 minute pakayein.",
+    "Paneer daal kar 3 minute dhak dein, roti ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Paneer Paratha with Chaas",
+   "desc": "Pet bharne wala protein nashta.",
+   "ingredients": [
+    {
+     "item": "paneer",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "dhaniya",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Paneer crumble karke masale mila lein.",
+    "Atta mein bharwan bhar kar parathe belein.",
+    "Thode ghee se sek kar chaas ke saath dein."
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "lunch",
+   "name": "Kaddu Sabzi with Chana Dal and Phulka",
+   "desc": "Halki meethi kaddu ki sabzi.",
+   "ingredients": [
+    {
+     "item": "kaddu",
+     "qty": 300,
+     "unit": "g"
+    },
+    {
+     "item": "chana dal",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "methi dana",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "amchur",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Chana dal ko cooker mein pakayein, tadka lagayein.",
+    "Kaddu ko methi dana, amchur ke saath dhak kar pakayein.",
+    "Phulka ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Mushroom Matar with Phulka",
+   "desc": "Halki aur swadisht sabzi.",
+   "ingredients": [
+    {
+     "item": "mushroom",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "matar",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Pyaaz-tamatar ka masala bhunein.",
+    "Mushroom aur matar daal kar 8 minute pakayein.",
+    "Phulka ke saath garam dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Missi Roti with Dahi and Achaar",
+   "desc": "Besan aur atta ki khushboodar roti.",
+   "ingredients": [
+    {
+     "item": "besan",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 90,
+     "unit": "g"
+    },
+    {
+     "item": "ajwain",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "achaar",
+     "qty": 1,
+     "unit": "tbsp"
+    }
+   ],
+   "steps": [
+    "Besan, atta, ajwain, namak aur hari mirch ka atta goonth lein.",
+    "Roti bel kar tawa par sekein.",
+    "Dahi aur achaar ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Veg Biryani with Boondi Raita",
+   "desc": "Sabziyon wali khushboodar biryani.",
+   "ingredients": [
+    {
+     "item": "basmati chawal",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "gajar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "matar",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "beans",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 200,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Chawal 20 minute bhigo kar aadha pakayein.",
+    "Sabziyon ko dahi aur biryani masale mein bhun lein.",
+    "Parat laga kar dhak kar dum par 15 minute pakayein, boondi raita ke saath dein."
+   ],
+   "tags": [
+    "heavy",
+    "sunday-special"
+   ]
+  },
+  {
+   "slot": "dinner",
+   "name": "Tamatar Soup with Veg Sandwich",
+   "desc": "Halka raat ka khana.",
+   "ingredients": [
+    {
+     "item": "tamatar",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "brown bread",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "kheera",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "gajar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "kali mirch",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Tamatar ubaal kar pees lein, namak-kali mirch daal kar chhan lein.",
+    "Bread par sabziyan laga kar sandwich banayein.",
+    "Garam soup ke saath toast kiya sandwich dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Mooli Paratha with Dahi",
+   "desc": "Sardiyon ka classic paratha.",
+   "ingredients": [
+    {
+     "item": "mooli",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "ajwain",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Mooli kaddukas kar ke achhe se nichod lein, masale mila lein.",
+    "Atta mein bharwan bhar kar parathe belein.",
+    "Tawa par thode ghee se sek kar dahi ke saath dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "lunch",
+   "name": "Arbi Masala with Moong Dal Tadka and Roti",
+   "desc": "Kam tel mein bhuni arbi.",
+   "ingredients": [
+    {
+     "item": "arbi",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "moong dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "ajwain",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "amchur",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Arbi ubaal kar chhil lein aur kaat lein.",
+    "Ajwain, masale aur amchur ke saath tawa par bhun lein.",
+    "Moong dal tadka aur roti ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Bharwan Shimla Mirch with Roti",
+   "desc": "Masale bhari shimla mirch.",
+   "ingredients": [
+    {
+     "item": "shimla mirch",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "aloo",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "besan",
+     "qty": 2,
+     "unit": "tbsp"
+    },
+    {
+     "item": "amchur",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Aloo mash karke besan aur masale mila kar bharwan bana lein.",
+    "Shimla mirch mein bharwan bhar dein.",
+    "Tawa par dhak kar dheemi aanch par pakayein, roti ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Moong Sprouts Chaat Bowl",
+   "desc": "Fresh aur protein se bharpoor.",
+   "ingredients": [
+    {
+     "item": "moong sprouts",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "kheera",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "nimbu",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Sprouts ko halka ubaal lein.",
+    "Kati sabziyan, namak, chaat masala mila lein.",
+    "Nimbu nichod kar thanda ya garam parosein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Gajar Matar Sabzi with Dal Tadka and Phulka",
+   "desc": "Sardi ki rangeen sabzi.",
+   "ingredients": [
+    {
+     "item": "gajar",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "matar",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "arhar dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Jeera ke saath gajar-matar ko dhak kar pakayein.",
+    "Dal ubaal kar tadka lagayein.",
+    "Phulka ke saath garam dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Paneer Bhurji with Roti",
+   "desc": "Jaldi bannewali masaledar bhurji.",
+   "ingredients": [
+    {
+     "item": "paneer",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Pyaaz, tamatar, mirch ko tel mein bhunein.",
+    "Crumble kiya paneer aur masale daal kar 4 minute pakayein.",
+    "Roti ke saath garam parosein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Palak Paratha with Dahi",
+   "desc": "Hara aur sehatmand paratha.",
+   "ingredients": [
+    {
+     "item": "palak",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "atta",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "ajwain",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Palak ko barik kaat kar atta, namak, ajwain ke saath goonth lein.",
+    "Parathe bel kar tawa par sekein.",
+    "Dahi ke saath parosein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "lunch",
+   "name": "Matar Pulao with Raita",
+   "desc": "Taazi matar ka khushboodar pulao.",
+   "ingredients": [
+    {
+     "item": "chawal",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "matar",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "dahi",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "tej patta",
+     "qty": 2,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Chawal dho kar 20 minute bhigo dein.",
+    "Ghee mein jeera, tej patta aur matar bhun kar chawal daalein.",
+    "Dugna paani daal kar pakayein, raita ke saath dein."
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "dinner",
+   "name": "Lauki Kofta Curry with Roti",
+   "desc": "Kam tel mein pakaye hue kofte.",
+   "ingredients": [
+    {
+     "item": "lauki",
+     "qty": 300,
+     "unit": "g"
+    },
+    {
+     "item": "besan",
+     "qty": 4,
+     "unit": "tbsp"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Lauki kaddukas kar ke nichod lein, besan aur masale mila kar kofte banayein.",
+    "Appe pan ya oven mein kofte sek lein.",
+    "Tamatar-pyaaz ki gravy mein kofte daal kar roti ke saath dein."
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "breakfast",
+   "name": "Suji Uttapam with Veggies",
+   "desc": "Naram uttapam, halki chutney ke saath.",
+   "ingredients": [
+    {
+     "item": "sooji",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "shimla mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Sooji aur dahi ka ghol 15 minute rakhein.",
+    "Tawa par moti parat failakar sabziyan daalein.",
+    "Dono taraf sek kar chutney ke saath dein."
+   ],
+   "tags": [
+    "egg"
+   ]
+  },
+  {
+   "slot": "lunch",
+   "name": "Baingan Aloo with Chana Dal and Roti",
+   "desc": "Gharelu sookhi sabzi.",
+   "ingredients": [
+    {
+     "item": "baingan",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "aloo",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "chana dal",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Chana dal ko cooker mein pakayein, tadka lagayein.",
+    "Baingan-aloo ko jeera, haldi ke saath dhak kar pakayein.",
+    "Roti ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Vegetable Dalia Khichdi with Dahi",
+   "desc": "Fiber wali halki khichdi.",
+   "ingredients": [
+    {
+     "item": "dalia",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "moong dal",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "gajar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "matar",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Dalia aur dal ko ghee-jeera ke saath bhun lein.",
+    "Sabziyan aur 4 guna paani daal kar cooker mein pakayein.",
+    "Garam khichdi dahi ke saath dein."
+   ],
+   "tags": [
+    "thursday-khichdi"
+   ]
+  },
+  {
+   "slot": "breakfast",
+   "name": "Anda Bhurji Toast",
+   "desc": "Masaledar bhurji, kurkure toast par.",
+   "ingredients": [
+    {
+     "item": "anda",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "brown bread",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Pyaaz-tamatar-mirch ko tel mein bhunein.",
+    "Anda phod kar bhurji bana lein.",
+    "Toast par rakh kar garam parosein."
+   ],
+   "tags": [
+    "egg"
+   ]
+  },
+  {
+   "slot": "lunch",
+   "name": "Dal Fry with Jeera Aloo and Roti",
+   "desc": "Dhaba style, par kam tel mein.",
+   "ingredients": [
+    {
+     "item": "toor dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "aloo",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Dal ko cooker mein pakayein.",
+    "Pyaaz-tamatar ka tadka laga kar dal par daalein.",
+    "Jeera aloo aur roti ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Shimla Mirch Paneer with Roti",
+   "desc": "Jaldi bannewali sookhi sabzi.",
+   "ingredients": [
+    {
+     "item": "shimla mirch",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "paneer",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Pyaaz aur shimla mirch ko tez aanch par bhunein.",
+    "Tamatar aur masale daal kar paneer mila dein.",
+    "3 minute dhak kar roti ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Aloo Tikki with Chutney",
+   "desc": "Tawa par sekhi kurkuri tikki.",
+   "ingredients": [
+    {
+     "item": "aloo",
+     "qty": 300,
+     "unit": "g"
+    },
+    {
+     "item": "brown bread",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "dhaniya",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "imli chutney",
+     "qty": 2,
+     "unit": "tbsp"
+    }
+   ],
+   "steps": [
+    "Ubale aloo mash karke bread ka chura aur masale mila lein.",
+    "Tikki ka shape dekar kam tel mein tawa par sek lein.",
+    "Imli aur hari chutney ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Methi Matar Malai (Light) with Roti",
+   "desc": "Methi aur matar ki halki creamy sabzi.",
+   "ingredients": [
+    {
+     "item": "methi",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "matar",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "dahi",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Pyaaz ko bhun kar tamatar aur masale daalein.",
+    "Methi aur matar daal kar 8 minute pakayein.",
+    "Aanch band karke phenti dahi mila kar roti ke saath dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Soya Keema Matar with Phulka",
+   "desc": "Veg keema, protein se bharpoor.",
+   "ingredients": [
+    {
+     "item": "soya granules",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "matar",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Soya granules ko garam paani mein bhigo kar nichod lein.",
+    "Pyaaz-tamatar ka masala bhun kar soya aur matar daalein.",
+    "10 minute pakayein, phulka ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Vegetable Sevai Upma",
+   "desc": "Jaldi bannewala halka nashta.",
+   "ingredients": [
+    {
+     "item": "sevai",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "gajar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "matar",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "curry patta",
+     "qty": 6,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Sevai ko halka bhun kar garam paani mein ubaal lein.",
+    "Tel mein rai, pyaaz, sabziyan aur curry patta bhunein.",
+    "Sevai mila kar nimbu nichod dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Rajma Masala with Jeera Rice",
+   "desc": "Khushboodar jeera rice ke saath rajma.",
+   "ingredients": [
+    {
+     "item": "rajma",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "chawal",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Rajma raat bhar bhigo kar cooker mein ubaal lein.",
+    "Pyaaz-tamatar masala bhun kar rajma daal kar 15 minute pakayein.",
+    "Jeera daale chawal ke saath dein."
+   ],
+   "tags": [
+    "heavy",
+    "sunday-special"
+   ]
+  },
+  {
+   "slot": "dinner",
+   "name": "Sabut Moong Dal with Phulka",
+   "desc": "Halki aur fiber wali dal.",
+   "ingredients": [
+    {
+     "item": "sabut moong",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "adrak",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Moong ko cooker mein naram hone tak pakayein.",
+    "Adrak, pyaaz, tamatar ka tadka lagayein.",
+    "Phulka ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Besan Methi Puda",
+   "desc": "Methi ki khushboo wala puda.",
+   "ingredients": [
+    {
+     "item": "besan",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "methi",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "ajwain",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "hari chutney",
+     "qty": 2,
+     "unit": "tbsp"
+    }
+   ],
+   "steps": [
+    "Besan, kati methi, pyaaz, masale aur paani ka ghol banayein.",
+    "Tawa par patla puda sekein.",
+    "Chutney ke saath garam dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Dal Tadka with Gobhi Matar Sabzi and Roti",
+   "desc": "Ghar ka seedha-saada khana.",
+   "ingredients": [
+    {
+     "item": "arhar dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "gobhi",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "matar",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Dal ko cooker mein pakayein, tadka lagayein.",
+    "Gobhi-matar ko jeera aur haldi ke saath dhak kar pakayein.",
+    "Roti ke saath dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Egg Pulao with Raita",
+   "desc": "Ek pot mein protein wala pulao.",
+   "ingredients": [
+    {
+     "item": "anda",
+     "qty": 3,
+     "unit": "pcs"
+    },
+    {
+     "item": "chawal",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "matar",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 200,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Ande ubaal kar chhil lein.",
+    "Tel mein jeera, pyaaz, matar aur chawal bhun kar dugna paani mein pakayein.",
+    "Ande ke tukde mila kar raita ke saath dein."
+   ],
+   "tags": [
+    "egg",
+    "heavy"
+   ]
+  },
+  {
+   "slot": "breakfast",
+   "name": "Poha with Matar and Gajar",
+   "desc": "Rangeen aur halka poha.",
+   "ingredients": [
+    {
+     "item": "poha",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "matar",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "gajar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "nimbu",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Poha dhokar chhan lein.",
+    "Tel mein rai, pyaaz, gajar-matar bhunein.",
+    "Poha mila kar 2 minute dhak dein, nimbu nichod dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Dahi Bhindi with Moong Dal and Phulka",
+   "desc": "Khatti dahi mein bhuni bhindi.",
+   "ingredients": [
+    {
+     "item": "bhindi",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "moong dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Bhindi ko kam tel mein bhun lein.",
+    "Phenti dahi aur masale daal kar 3 minute dhak dein.",
+    "Moong dal aur phulka ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Paneer Tikka (Pan-Grilled) with Phulka and Salad",
+   "desc": "Tawa par sekha masaledar paneer.",
+   "ingredients": [
+    {
+     "item": "paneer",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "shimla mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "dahi",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "tikka masala",
+     "qty": 1,
+     "unit": "tbsp"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Dahi aur tikka masale mein paneer aur shimla mirch marinate karein.",
+    "Tawa par kam tel mein sab taraf se sunehra sek lein.",
+    "Phulka aur salad ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Moong Dal Paratha with Dahi",
+   "desc": "Protein wala bharwan paratha.",
+   "ingredients": [
+    {
+     "item": "moong dal",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "adrak",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Dhuli moong dal ko bhigo kar masale ke saath halka sukha pakayein.",
+    "Atta mein bharwan bhar kar parathe belein.",
+    "Tawa par sek kar dahi ke saath dein."
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "lunch",
+   "name": "Kadhi Pakoda (Light) with Chawal",
+   "desc": "Appe pan mein bane kam tel ke pakode.",
+   "ingredients": [
+    {
+     "item": "dahi",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "besan",
+     "qty": 5,
+     "unit": "tbsp"
+    },
+    {
+     "item": "chawal",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "curry patta",
+     "qty": 6,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Besan aur pyaaz ke pakode appe pan mein sek lein.",
+    "Dahi-besan ki kadhi 15 minute pakayein.",
+    "Pakode daal kar tadka lagayein, chawal ke saath dein."
+   ],
+   "tags": [
+    "heavy",
+    "sunday-special"
+   ]
+  },
+  {
+   "slot": "dinner",
+   "name": "Tawa Sabzi with Roti",
+   "desc": "Mix sabziyon ki masaledar tawa sabzi.",
+   "ingredients": [
+    {
+     "item": "shimla mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "gobhi",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "matar",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Tawa par tel mein tamatar aur masale bhunein.",
+    "Kati sabziyan daal kar dhak kar pakayein.",
+    "Tawa par hi mash kar roti ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Sattu Paratha with Chaas",
+   "desc": "Garmi dene wala, protein se bhara.",
+   "ingredients": [
+    {
+     "item": "sattu",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "ajwain",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Sattu mein pyaaz, nimbu, ajwain aur namak mila kar bharwan banayein.",
+    "Atta mein bhar kar parathe belein.",
+    "Tawa par sek kar chaas ke saath dein."
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "lunch",
+   "name": "Chana Masala (Light) with Phulka",
+   "desc": "Kam tel ka chana masala.",
+   "ingredients": [
+    {
+     "item": "kabuli chana",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "chole masala",
+     "qty": 1,
+     "unit": "tbsp"
+    }
+   ],
+   "steps": [
+    "Chane raat bhar bhigo kar cooker mein ubaal lein.",
+    "Pyaaz-tamatar masala bhun kar chane daalein.",
+    "10 minute pakayein, phulka ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Masoor Dal Khichdi with Aloo Bharta",
+   "desc": "Halki khichdi, aloo bharta ke saath.",
+   "ingredients": [
+    {
+     "item": "chawal",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "masoor dal",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "aloo",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "ghee",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Chawal aur masoor dal ko ghee-jeera ke saath cooker mein pakayein.",
+    "Aloo ubaal kar mash karein, mirch-namak aur thoda tel mila lein.",
+    "Garam khichdi bharta ke saath dein."
+   ],
+   "tags": [
+    "thursday-khichdi"
+   ]
+  },
+  {
+   "slot": "breakfast",
+   "name": "Paneer Stuffed Besan Cheela",
+   "desc": "Bharwan cheela, protein ka double dose.",
+   "ingredients": [
+    {
+     "item": "besan",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "paneer",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "dhaniya",
+     "qty": 1,
+     "unit": "bunch"
+    }
+   ],
+   "steps": [
+    "Besan ka patla ghol banayein.",
+    "Paneer ko pyaaz-mirch ke saath crumble karke masale mila lein.",
+    "Cheela sek kar bhari hui filling mod dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Mixed Dal with Lauki Sabzi and Roti",
+   "desc": "Halki aur santulit thali.",
+   "ingredients": [
+    {
+     "item": "mixed dal",
+     "qty": 70,
+     "unit": "g"
+    },
+    {
+     "item": "lauki",
+     "qty": 300,
+     "unit": "g"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Mixed dal ko cooker mein pakayein, tadka lagayein.",
+    "Lauki ko jeera, tamatar ke saath pakayein.",
+    "Roti ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Veg Jalfrezi with Phulka",
+   "desc": "Rangeen sabziyon ki tez masale wali sabzi.",
+   "ingredients": [
+    {
+     "item": "shimla mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "gajar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "beans",
+     "qty": 80,
+     "unit": "g"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Tamatar ki puree bhun kar masale daalein.",
+    "Kati sabziyan daal kar tez aanch par 5 minute pakayein.",
+    "Phulka ke saath garam dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Masala Omelette with Multigrain Toast",
+   "desc": "Fluffy omelette, fiber wala toast.",
+   "ingredients": [
+    {
+     "item": "anda",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "multigrain bread",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "dhaniya",
+     "qty": 1,
+     "unit": "bunch"
+    }
+   ],
+   "steps": [
+    "Anda phent kar kati pyaaz, mirch, dhaniya aur namak mila lein.",
+    "Tawa par thode tel mein omelette sekein.",
+    "Multigrain toast ke saath garam parosein."
+   ],
+   "tags": [
+    "egg"
+   ]
+  },
+  {
+   "slot": "lunch",
+   "name": "Hara Chana Masala with Roti",
+   "desc": "Taaze hare chane ki sabzi.",
+   "ingredients": [
+    {
+     "item": "hara chana",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "adrak",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Hara chana halka ubaal lein.",
+    "Pyaaz-tamatar-adrak ka masala bhunein.",
+    "Chana daal kar 8 minute pakayein, roti ke saath dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Dal Palak with Phulka",
+   "desc": "Halki aur hari dal.",
+   "ingredients": [
+    {
+     "item": "toor dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "palak",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "lahsun",
+     "qty": 3,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Dal aur palak cooker mein pakayein.",
+    "Lahsun-jeera ka tadka lagayein.",
+    "Phulka ke saath dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Aloo Pyaaz Paratha with Dahi",
+   "desc": "Pyaaz-aloo ki bharwan paratha.",
+   "ingredients": [
+    {
+     "item": "aloo",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "dahi",
+     "qty": 150,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Aloo mash karke bareek pyaaz aur masale mila lein.",
+    "Atta mein bhar kar parathe belein.",
+    "Tawa par thode ghee se sek kar dahi ke saath dein."
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "lunch",
+   "name": "Chole Kulche (Baked)",
+   "desc": "Ravivar ka khaas, oven mein bane kulche.",
+   "ingredients": [
+    {
+     "item": "kabuli chana",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "maida",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "chole masala",
+     "qty": 1,
+     "unit": "tbsp"
+    }
+   ],
+   "steps": [
+    "Chane raat bhar bhigo kar cooker mein ubaal lein, masale ke saath pakayein.",
+    "Maida-dahi ka atta goonth kar kulche bel lein.",
+    "Oven ya tawa par sek kar chole ke saath dein."
+   ],
+   "tags": [
+    "heavy",
+    "sunday-special"
+   ]
+  },
+  {
+   "slot": "dinner",
+   "name": "Palak Makai Sabzi with Roti",
+   "desc": "Palak aur sweet corn ki halki sabzi.",
+   "ingredients": [
+    {
+     "item": "palak",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "sweet corn",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "lahsun",
+     "qty": 3,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    }
+   ],
+   "steps": [
+    "Palak ubaal kar pees lein.",
+    "Pyaaz-lahsun bhun kar puree aur sweet corn daalein.",
+    "8 minute pakayein, roti ke saath dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Lobia Masala with Chawal",
+   "desc": "Halki dal jaisi masaledar curry.",
+   "ingredients": [
+    {
+     "item": "lobia",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "chawal",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "adrak",
+     "qty": 1,
+     "unit": "pcs"
+    }
+   ],
+   "steps": [
+    "Lobia 4 ghante bhigo kar cooker mein ubaal lein.",
+    "Pyaaz-tamatar-adrak ka masala bhunein.",
+    "Lobia daal kar 10 minute pakayein, chawal ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Sarson Saag with Makki Roti",
+   "desc": "Sardiyon ka sabse khaas khana.",
+   "ingredients": [
+    {
+     "item": "sarson",
+     "qty": 500,
+     "unit": "g"
+    },
+    {
+     "item": "palak",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "makki atta",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "adrak",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "makhan",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Sarson aur palak ko adrak, mirch ke saath ubaal kar mota pees lein.",
+    "Dheemi aanch par 15 minute pakayein, thoda makhan daalein.",
+    "Makki ke atta ki roti sek kar saag ke saath dein."
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "dinner",
+   "name": "Tamatar Dhaniya Dal with Phulka",
+   "desc": "Halka dinner, bhari dopahar ke baad.",
+   "ingredients": [
+    {
+     "item": "toor dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "dhaniya",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Dal tamatar ke saath pakayein, dhaniya daal dein.",
+    "Jeera ka tadka lagayein.",
+    "Phulka ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Masoor Dal with Beans Sabzi and Phulka",
+   "desc": "Halki ghar ki thali.",
+   "ingredients": [
+    {
+     "item": "masoor dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "beans",
+     "qty": 250,
+     "unit": "g"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Masoor dal ko haldi-namak ke saath 3 seeti tak pakayein.",
+    "Beans ko jeera, tamatar ke saath dhak kar pakayein.",
+    "Dal par tadka lagayein, phulka ke saath dein."
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Dahi Poha with Kheera",
+   "desc": "Thanda, halka garmi ka nashta.",
+   "ingredients": [
+    {
+     "item": "poha",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "kheera",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "anaar",
+     "qty": 2,
+     "unit": "tbsp"
+    },
+    {
+     "item": "kali mirch",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Poha ko dho kar 5 minute bhigo dein.",
+    "Dahi phenti mein poha, kati kheera aur namak mila lein.",
+    "Anaar daane aur kali mirch daal kar thanda parosein."
+   ],
+   "months": [
+    4,
+    5,
+    6
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Tori Moong Dal with Phulka",
+   "desc": "Garmi ki halki, cooling thali.",
+   "ingredients": [
+    {
+     "item": "tori",
+     "qty": 300,
+     "unit": "g"
+    },
+    {
+     "item": "moong dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Moong dal ko haldi-namak ke saath cooker mein pakayein.",
+    "Tori ko jeera, tamatar ke saath dhak kar pakayein.",
+    "Dal par tadka lagayein, phulka ke saath dein."
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "tags": []
+  },
+  {
+   "slot": "lunch",
+   "name": "Pudina Pulao with Raita",
+   "desc": "Pudine ki thandak wala pulao.",
+   "ingredients": [
+    {
+     "item": "chawal",
+     "qty": 150,
+     "unit": "g"
+    },
+    {
+     "item": "pudina",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "matar",
+     "qty": 50,
+     "unit": "g"
+    },
+    {
+     "item": "dahi",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "jeera",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Chawal dho kar 20 minute bhigo dein.",
+    "Jeera, matar aur pisa pudina bhun kar chawal daalein.",
+    "Dugna paani daal kar pakayein, thande raita ke saath dein."
+   ],
+   "months": [
+    4,
+    5,
+    6
+   ],
+   "tags": [
+    "heavy"
+   ]
+  },
+  {
+   "slot": "dinner",
+   "name": "Tinda Sabzi with Roti",
+   "desc": "Garmi ki halki sabzi.",
+   "ingredients": [
+    {
+     "item": "tinda",
+     "qty": 300,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 2,
+     "unit": "pcs"
+    },
+    {
+     "item": "atta",
+     "qty": 120,
+     "unit": "g"
+    },
+    {
+     "item": "amchur",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Tinda chhil kar kaat lein.",
+    "Pyaaz-tamatar ke saath masale daal kar dhak kar pakayein.",
+    "Roti ke saath garam dein."
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Masala Bhutta Chaat",
+   "desc": "Barish ka mazaa, garam bhutte ke saath.",
+   "ingredients": [
+    {
+     "item": "sweet corn",
+     "qty": 200,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "tamatar",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "nimbu",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "chaat masala",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Sweet corn ko ubaal lein.",
+    "Kati pyaaz-tamatar aur masale mila lein.",
+    "Nimbu nichod kar garam parosein."
+   ],
+   "months": [
+    7,
+    8,
+    9
+   ],
+   "tags": []
+  },
+  {
+   "slot": "breakfast",
+   "name": "Baked Moong Dal Pakode with Chutney",
+   "desc": "Barish ke liye kam tel ke pakode.",
+   "ingredients": [
+    {
+     "item": "moong dal",
+     "qty": 100,
+     "unit": "g"
+    },
+    {
+     "item": "pyaaz",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari mirch",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "adrak",
+     "qty": 1,
+     "unit": "pcs"
+    },
+    {
+     "item": "hari chutney",
+     "qty": 2,
+     "unit": "tbsp"
+    }
+   ],
+   "steps": [
+    "Moong dal bhigo kar mota pees lein, masale mila lein.",
+    "Appe pan ya oven mein sunehra hone tak sek lein.",
+    "Hari chutney ke saath garam dein."
+   ],
+   "months": [
+    7,
+    8,
+    9
+   ],
+   "tags": []
+  },
+  {
+   "slot": "dinner",
+   "name": "Dal Palak Soup with Toast",
+   "desc": "Barish ki shaam ka halka khana.",
+   "ingredients": [
+    {
+     "item": "moong dal",
+     "qty": 60,
+     "unit": "g"
+    },
+    {
+     "item": "palak",
+     "qty": 1,
+     "unit": "bunch"
+    },
+    {
+     "item": "lahsun",
+     "qty": 3,
+     "unit": "pcs"
+    },
+    {
+     "item": "brown bread",
+     "qty": 4,
+     "unit": "pcs"
+    },
+    {
+     "item": "kali mirch",
+     "qty": 1,
+     "unit": "tsp"
+    }
+   ],
+   "steps": [
+    "Dal aur palak cooker mein pakayein aur halka pees lein.",
+    "Lahsun ka tadka lagayein, kali mirch daalein.",
+    "Garam soup toast ke saath dein."
+   ],
+   "months": [
+    7,
+    8,
+    9
+   ],
+   "tags": []
+  }
+ ]
+}
